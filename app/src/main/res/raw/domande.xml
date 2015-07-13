@@ -1,0 +1,2357 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<gruppo_domande>
+    <domanda id = "1" punti = "97">Quale squadra ha vinto la Champions League nella stagione 2000-2001?
+        <risposta corretta="ok">Bayern Monaco</risposta>
+        <risposta>Real Madrid</risposta>
+        <risposta>Valencia</risposta>
+        <risposta>Manchester United</risposta>
+    </domanda>
+    <domanda id = "2" punti = "94">Quale squadra ha vinto la Champions League nella stagione 2001-2002?
+        <risposta corretta="ok">Real Madrid</risposta>
+        <risposta>Barcellona</risposta>
+        <risposta>Bayern Monaco</risposta>
+        <risposta>Milan</risposta>
+    </domanda>
+    <domanda id = "3" punti = "93">Quale squadra ha vinto la Champions League nella stagione 2002-2003?
+        <risposta corretta="ok">Milan</risposta>
+        <risposta>Juventus</risposta>
+        <risposta>Real Madrid</risposta>
+        <risposta>Monaco</risposta>
+    </domanda>
+    <domanda id = "4" punti = "92">Quale squadra ha vinto la Champions League nella stagione 2003-2004?
+        <risposta corretta="ok">Porto</risposta>
+        <risposta>Liverpool</risposta>
+        <risposta>Milan</risposta>
+        <risposta>Barcellona</risposta>
+    </domanda>
+    <domanda id = "5" punti = "91">Quale squadra ha vinto la Champions League nella stagione 2004-2005?
+        <risposta corretta="ok">Liverpool</risposta>
+        <risposta>Milan</risposta>
+        <risposta>Barcellona</risposta>
+        <risposta>Manchester United</risposta>
+    </domanda>
+    <domanda id = "6" punti = "90">Quale squadra ha vinto la Champions League nella stagione 2005-2006?
+        <risposta corretta="ok">Barcellona</risposta>
+        <risposta>Arsenal</risposta>
+        <risposta>Liverpool</risposta>
+        <risposta>Milan</risposta>
+    </domanda>
+    <domanda id = "7" punti = "70">Quale squadra ha vinto la Champions League nella stagione 2006-2007?
+        <risposta corretta="ok">Milan</risposta>
+        <risposta>Liverpool</risposta>
+        <risposta>Barcellona</risposta>
+        <risposta>Manchester United</risposta>
+    </domanda>
+    <domanda id = "8" punti = "60">Quale squadra ha vinto la Champions League nella stagione 2007-2008?
+        <risposta corretta="ok">Manchester Uniteed</risposta>
+        <risposta>Chelsea</risposta>
+        <risposta>Barcellona</risposta>
+        <risposta>Milan</risposta>
+    </domanda>
+    <domanda id = "9" punti = "50">Quale squadra ha vinto la Champions League nella stagione 2008-2009?
+        <risposta corretta="ok">Barcellona</risposta>
+        <risposta>Manchester United</risposta>
+        <risposta>Inter</risposta>
+        <risposta>Milan</risposta>
+    </domanda>
+    <domanda id = "10" punti = "20">Quale squadra ha vinto la Champions League nella stagione 2009-2010?
+        <risposta corretta="ok">Inter</risposta>
+        <risposta>Bayern Monaco</risposta>
+        <risposta>Barcellona</risposta>
+        <risposta>Manchester United</risposta>
+    </domanda>
+    <domanda id = "11" punti = "100">In quale Paese si svolse la finale di Champions League 2000-2001?
+        <risposta corretta="ok">Italia</risposta>
+        <risposta>Spagna</risposta>
+        <risposta>Portogallo</risposta>
+        <risposta>Germania</risposta>
+    </domanda>
+    <domanda id = "12" punti = "95">In quale Paese si svolse la finale di Champions League 2001-2002?
+        <risposta corretta="ok">Scozia</risposta>
+        <risposta>Galles</risposta>
+        <risposta>Olanda</risposta>
+        <risposta>Inghilterra</risposta>
+    </domanda>
+    <domanda id = "13" punti = "94">In quale Paese si svolse la finale di Champions League 2002-2003?
+        <risposta corretta="ok">Inghilterra</risposta>
+        <risposta>Italia</risposta>
+        <risposta>Grecia</risposta>
+        <risposta>Spagna</risposta>
+    </domanda>
+    <domanda id = "14" punti = "93">In quale Paese si svolse la finale di Champions League 2003-2004?
+        <risposta corretta="ok">Germania</risposta>
+        <risposta>Francia</risposta>
+        <risposta>Spagna</risposta>
+        <risposta>Inghilterra</risposta>
+    </domanda>
+    <domanda id = "15" punti = "92">In quale Paese si svolse la finale di Champions League 2004-2005?
+        <risposta corretta="ok">Turchia</risposta>
+        <risposta>Portogallo</risposta>
+        <risposta>Belgio</risposta>
+        <risposta>Croazia</risposta>
+    </domanda>
+    <domanda id = "16" punti = "91">Quale Paese ospitò la finale di Champions League 2005-2006?
+        <risposta corretta="ok">Francia</risposta>
+        <risposta>Italia</risposta>
+        <risposta>Germania</risposta>
+        <risposta>Spagna</risposta>
+    </domanda>
+    <domanda id = "17" punti = "90">Quale città ospitò la finale di Champions League 2006-2007?
+        <risposta corretta="ok">Atene</risposta>
+        <risposta>Mosca</risposta>
+        <risposta>Roma</risposta>
+        <risposta>Madrid</risposta>
+    </domanda>
+    <domanda id = "19" punti = "80">In quale città¡³i svolse la finale di Champions League 2007-2008?
+        <risposta corretta="ok">Mosca</risposta>
+        <risposta>Atene</risposta>
+        <risposta>Roma</risposta>
+        <risposta>Parigi</risposta>
+    </domanda>
+    <domanda id = "20" punti = "70">Quale città ospitò la finale di Champions League 2008-2009?
+        <risposta corretta="ok">Roma</risposta>
+        <risposta>Barcellona</risposta>
+        <risposta>Istanbul</risposta>
+        <risposta>Parigi</risposta>
+    </domanda>
+    <domanda id = "21" punti = "40">Quale città ospitò la finale di Champions League 2009-2010?
+        <risposta corretta="ok">Madrid</risposta>
+        <risposta>Parigi</risposta>
+        <risposta>Manchester</risposta>
+        <risposta>Atene</risposta>
+    </domanda>
+    <domanda id = "22" punti = "20">In quale stadio si svolse la finale di Champions League 2010-2011?
+        <risposta corretta="ok">Wembley Stadium</risposta>
+        <risposta>Bernabeu</risposta>
+        <risposta>Allianz Arena</risposta>
+        <risposta>Stadio Olimpico</risposta>
+    </domanda>
+    <domanda id = "23" punti = "10">In quale stadio si svolse la finale di Champions League 2011-2012?
+        <risposta corretta="ok">Allianz Arena</risposta>
+        <risposta>San Siro</risposta>
+        <risposta>Camp Nou</risposta>
+        <risposta>Bernabeu</risposta>
+    </domanda>
+    <domanda id = "24" punti = "5">Chi è stato il capocannoniere della Champions League 2011-2012?
+        <risposta corretta="ok">Lionel Messi</risposta>
+        <risposta>Cristiano Ronaldo</risposta>
+        <risposta>Mario Gomez</risposta>
+        <risposta>Karim Benzema</risposta>
+    </domanda>
+    <domanda id = "25" punti = "8">Chi è stato il capocannoniere della Champions League 2010-2011?
+        <risposta corretta="ok">Lionel Messi</risposta>
+        <risposta>Mario Gomez</risposta>
+        <risposta>Samuel EtoÓ¯</risposta>
+        <risposta>Nicolas Anelka</risposta>
+    </domanda>
+    <domanda id = "26" punti = "12">Chi è stato il capocannoniere della Champions League 2009-2010?
+        <risposta corretta="ok">Lionel Messi</risposta>
+        <risposta>Cristiano Ronaldo</risposta>
+        <risposta>Ivica Olic</risposta>
+        <risposta>Diego Milito</risposta>
+    </domanda>
+    <domanda id = "27" punti = "25">Quale squadra si aggiudicò l'Europa League 2009-2010?
+        <risposta corretta="ok">Atletico Madrid</risposta>
+        <risposta>Fulham</risposta>
+        <risposta>Porto</risposta>
+        <risposta>Siviglia</risposta>
+    </domanda>
+    <domanda id = "28" punti = "12">Quale squadra vinse l'Europa League 2010-2011?
+        <risposta corretta="ok">Porto</risposta>
+        <risposta>Valencia</risposta>
+        <risposta>Fulham</risposta>
+        <risposta>Atletico Madrid</risposta>
+    </domanda>
+    <domanda id = "29" punti = "5">chi vinse l'Europa League 2011-2012?
+        <risposta corretta="ok">Atletico Madrid</risposta>
+        <risposta>Atlethic Bilbao</risposta>
+        <risposta>Zenit</risposta>
+        <risposta>Benfica</risposta>
+    </domanda>
+    <domanda id = "30" punti = "6">Chi è stato il capocannoniere della serie A 2011-2012?
+        <risposta corretta="ok">Zlatan Ibrahimovic</risposta>
+        <risposta>Diego Milito</risposta>
+        <risposta>Edinson Cavani</risposta>
+        <risposta>Antonio Di Natale</risposta>
+    </domanda>
+    <domanda id = "31" punti = "21">Con che risultato terminò la finale degli Europei Spagna-Germania nel 2008?
+        <risposta corretta="ok">1-0</risposta>
+        <risposta>2-0</risposta>
+        <risposta>0-1</risposta>
+        <risposta>1-3</risposta>
+    </domanda>
+    <domanda id = "32" punti = "30">Tra quali squadre si giocò la finale degli Europei 2004?
+        <risposta corretta="ok">Grecia-Portogallo</risposta>
+        <risposta>Germania-Portogallo</risposta>
+        <risposta>Italia-Francia</risposta>
+        <risposta>Spagna-Inghilterra</risposta>
+    </domanda>
+    <domanda id = "33" punti = "55">Quale nazione vinse gli Europei nel 2000?
+        <risposta corretta="ok">Francia</risposta>
+        <risposta>Italia</risposta>
+        <risposta>Germania</risposta>
+        <risposta>Portogallo</risposta>
+    </domanda>
+    <domanda id = "34" punti = "45">Quale nazione ospitò §¬i Europei di calcio nel 2008?
+        <risposta corretta="ok">Austria</risposta>
+        <risposta>Spagna</risposta>
+        <risposta>Germania</risposta>
+        <risposta>Svizzera</risposta>
+    </domanda>
+    <domanda id = "35" punti = "29">In quale nazione si svolsero gli Europei di calcio del 2004?
+        <risposta corretta="ok">Portogallo</risposta>
+        <risposta>Olanda</risposta>
+        <risposta>Svezia</risposta>
+        <risposta>Francia</risposta>
+    </domanda>
+    <domanda id = "36" punti = "41">Quale nazioni ospitarono gli Europei nel 2000?
+        <risposta corretta="ok">Olanda-Belgio</risposta>
+        <risposta>Svezia-Norvegia</risposta>
+        <risposta>Inghilterra-Scozia</risposta>
+        <risposta>Austria-Svizzera</risposta>
+    </domanda>
+    <domanda id = "37" punti = "14">Quale nazione vinse la Coppa America nel 2011?
+        <risposta corretta="ok">Uruguay</risposta>
+        <risposta>Brasile</risposta>
+        <risposta>Argentina</risposta>
+        <risposta>Bolivia</risposta>
+    </domanda>
+    <domanda id = "38" punti = "25">Quale nazione vinse la Coppa America nel 2007?
+        <risposta corretta="ok">Brasile</risposta>
+        <risposta>Paraguay</risposta>
+        <risposta>Colombia</risposta>
+        <risposta>Argentina</risposta>
+    </domanda>
+    <domanda id = "39" punti = "35">Quale nazione vinse la Coppa America nel 2004?
+        <risposta corretta="ok">Brasile</risposta>
+        <risposta>Argentina</risposta>
+        <risposta>Cile</risposta>
+        <risposta>Perú</risposta>
+        </domanda>
+        <domanda id = "40" punti = "99">Quale nazione vinse la Coppa America nel 2001?
+            <risposta corretta="ok">Colombia</risposta>
+            <risposta>Uruguay</risposta>
+            <risposta>Cile</risposta>
+            <risposta>Brasile</risposta>
+        </domanda>
+        <domanda id = "41" punti = "22">Chi ha realizzato piñ §¯l in Bundesliga nella stagione 2011-2012?
+            <risposta corretta="ok">Klass-Jan Huntelaar</risposta>
+            <risposta>Mario Gomez</risposta>
+            <risposta>Robert Lewandoski</risposta>
+            <risposta>Lukas Podolski</risposta>
+        </domanda>
+        <domanda id = "42" punti = "12">Chi è stato il capocannoniere della Premier League nella stagione 2011-2012 realizzando 30 gol?
+            <risposta corretta="ok">Robin Van Persie</risposta>
+            <risposta>Wayne Rooney</risposta>
+            <risposta>Sergio Aguero</risposta>
+            <risposta>Edin Dzeko</risposta>
+        </domanda>
+        <domanda id = "43" punti = "5">Chi è stato il capocannoniere della Liga spagnola nella stagione 2011-2012 realizzando 50 gol?
+            <risposta corretta="ok">Lionel Messi</risposta>
+            <risposta>Cristiano Ronaldo</risposta>
+            <risposta>Radamel Falcao</risposta>
+            <risposta>Gonzalo Higuaó </risposta>
+            </domanda>
+            <domanda id = "44" punti = "34">Chi è stato il capocannoniere della Ligue 1 2011-2012?
+                <risposta corretta="ok">Olivier Giroud</risposta>
+                <risposta>Nenê</risposta>
+                    <risposta>Eden Hazard</risposta>
+                    <risposta>Lisandro Lopez</risposta>
+                </domanda>
+                <domanda id = "45" punti = "10">Quale squadra ha vinto la Bundesliga nella stagione 2011-2012?
+                    <risposta corretta="ok">Borussia Dortumund</risposta>
+                    <risposta>Schalke 04</risposta>
+                    <risposta>Bayern Monaco</risposta>
+                    <risposta>Borussia Mönchengladbach</risposta>
+                </domanda>
+                <domanda id = "46" punti = "4">Quale squadra ha vinto il titolo inglese nel 2011-2012?
+                    <risposta corretta="ok">Manchester City</risposta>
+                    <risposta>Manchester United</risposta>
+                    <risposta>Arsenal</risposta>
+                    <risposta>Chelsea</risposta>
+                </domanda>
+                <domanda id = "47" punti = "3">Quale squadra ha vinto il titolo spagnolo nella stagione 2011-2012?
+                    <risposta corretta="ok">Real Madrid</risposta>
+                    <risposta>Barcellona</risposta>
+                    <risposta>Atletico Madrid</risposta>
+                    <risposta>Valencia</risposta>
+                </domanda>
+                <domanda id = "48" punti = "10">Chi ha vinto il titolo francese nel 2011-2012?
+                    <risposta corretta="ok">Montpellier</risposta>
+                    <risposta>PSG</risposta>
+                    <risposta>Lille</risposta>
+                    <risposta>Olympique Lione</risposta>
+                </domanda>
+                <domanda id = "49" punti = "8">Quale squadra è¡³tata vincitrice del titolo olandese nella stagione 2011-2012?
+                    <risposta corretta="ok">Ajax</risposta>
+                    <risposta>Feyenoord</risposta>
+                    <risposta>Twente</risposta>
+                    <risposta>PSV</risposta>
+                </domanda>
+                <domanda id = "50" punti = "2">Quali nazioni hanno ospitato gli Europei di calcio 2012?
+                    <risposta corretta="ok">Ucraina-Polonia</risposta>
+                    <risposta>Belgio-Lussemburgo</risposta>
+                    <risposta>Danimarca-Svezia</risposta>
+                    <risposta>Croazia-Serbia</risposta>
+                </domanda>
+                <domanda id = "51" punti = "22">Chi è stato il capocannoniere degli europei del 2008?
+                    <risposta corretta="ok">David Villa</risposta>
+                    <risposta>Lukas Podolski</risposta>
+                    <risposta>Robin Van Persie</risposta>
+                    <risposta>Ruud Van Nistelrooy</risposta>
+                </domanda>
+                <domanda id = "52" punti = "10">Quale nazione non si è¡±ualificata per gli Europei 2012?
+                    <risposta corretta="ok">Svizzera</risposta>
+                    <risposta>Croazia</risposta>
+                    <risposta>Ucraina</risposta>
+                    <risposta>Danimarca</risposta>
+                </domanda>
+                <domanda id = "53" punti = "12">Quale tra queste nazioni non si è¡±ualificata per gli Europei del 2012?
+                    <risposta corretta="ok">Belgio</risposta>
+                    <risposta>Svezia</risposta>
+                    <risposta>Russia</risposta>
+                    <risposta>Polonia</risposta>
+                </domanda>
+                <domanda id = "54" punti = "15">Quale tra queste nazioni non si è¡±ualificata agli Europei del 2012?
+                    <risposta corretta="ok">Serbia</risposta>
+                    <risposta>Irlanda del Nord</risposta>
+                    <risposta>Repubblica ceca</risposta>
+                    <risposta>Grecia</risposta>
+                </domanda>
+                <domanda id = "55" punti = "80">Quale squadra ha vinto il campionato di Serie A nella stagione 2000-2001?
+                    <risposta corretta="ok">Roma</risposta>
+                    <risposta>Lazio</risposta>
+                    <risposta>Milan</risposta>
+                    <risposta>Inter</risposta>
+                </domanda>
+                <domanda id = "56" punti = "75">Quale squadra ha vinto il campionato di Serie A nella stagione 2001-2002?
+                    <risposta corretta="ok">Juventus</risposta>
+                    <risposta>Roma</risposta>
+                    <risposta>Milan</risposta>
+                    <risposta>Inter</risposta>
+                </domanda>
+                <domanda id = "57" punti = "70">Quale squadra ha vinto il campionato di Serie A nella stagione 2002-2003?
+                    <risposta corretta="ok">Juventus</risposta>
+                    <risposta>Lazio</risposta>
+                    <risposta>Napoli</risposta>
+                    <risposta>Inter</risposta>
+                </domanda>
+                <domanda id = "58" punti = "68">Quale squadra ha vinto il campionato si Serie A nella stagione 2003-2004?
+                    <risposta corretta="ok">Milan</risposta>
+                    <risposta>Juventus</risposta>
+                    <risposta>Inter</risposta>
+                    <risposta>Roma</risposta>
+                </domanda>
+                <domanda id = "59" punti = "65">Quale squadra ha vinto il campionato di Serie A nella stagione 2005-2006?
+                    <risposta corretta="ok">Inter</risposta>
+                    <risposta>Milan</risposta>
+                    <risposta>Roma</risposta>
+                    <risposta>Napoli</risposta>
+                </domanda>
+                <domanda id = "60" punti = "10">Quale squadra di calcio ha vinto il campionato di Serie A nella stagione 2010-2011?
+                    <risposta corretta="ok">Milan</risposta>
+                    <risposta>Inter</risposta>
+                    <risposta>Lazio</risposta>
+                    <risposta>Udinese</risposta>
+                </domanda>
+                <domanda id = "61" punti = "3">Quale squadra ha vinto il campionato di Serie A nella stagione 2011-2012?
+                    <risposta corretta="ok">Juventus</risposta>
+                    <risposta>Milan</risposta>
+                    <risposta>Udinese</risposta>
+                    <risposta>Inter</risposta>
+                </domanda>
+                <domanda id = "62" punti = "18">Quale squadra ha vinto il campionato di Serie B nella stagione 2011-2012?
+                    <risposta corretta="ok">Pescara</risposta>
+                    <risposta>Torino</risposta>
+                    <risposta>Sampdoria</risposta>
+                    <risposta>Sassuolo</risposta>
+                </domanda>
+                <domanda id = "63" punti = "25">Quale squadra ha vinto il campionato di Serie B nella stagione 2010-2011?
+                    <risposta corretta="ok">Atalanta</risposta>
+                    <risposta>Siena</risposta>
+                    <risposta>Padova</risposta>
+                    <risposta>Novara</risposta>
+                </domanda>
+                <domanda id = "64" punti = "55">Quale squadra di calcio vinse il campionato di Serie B 2009-2010?
+                    <risposta corretta="ok">Lecce</risposta>
+                    <risposta>Cesena</risposta>
+                    <risposta>Brescia</risposta>
+                    <risposta>Siena</risposta>
+                </domanda>
+                <domanda id = "65" punti = "40">Qual'è il nome dello stadio dell'Atalanta?
+                    <risposta corretta="ok">Atleti Azzurri dÒ Italia</risposta>
+                    <risposta>Angelo Massimino</risposta>
+                    <risposta>Via del Mare</risposta>
+                    <risposta>San Nicola</risposta>
+                </domanda>
+                <domanda id = "66" punti = "40">Qual'è il nome dello stadio del Chievo Verona?
+                    <risposta corretta="ok">Marcantonio Bentegodi</risposta>
+                    <risposta>Renato Dall'Ara</risposta>
+                    <risposta>Luigi Ferraris</risposta>
+                    <risposta>Renzo Barbera</risposta>
+                </domanda>
+                <domanda id = "67" punti = "45">Quale di queste squadre non ha mai vinto unÒ edizione degli Europei di calcio?
+                    <risposta corretta="ok">Inghilterra</risposta>
+                    <risposta>Olanda</risposta>
+                    <risposta>Germania</risposta>
+                    <risposta>Francia</risposta>
+                </domanda>
+                <domanda id = "68" punti = "30">Quale di queste squadre non ha mai vinto unÒ edizione degli Europei di calcio?
+                    <risposta corretta="ok">Belgio</risposta>
+                    <risposta>Danimarca</risposta>
+                    <risposta>Grecia</risposta>
+                    <risposta>Italia</risposta>
+                </domanda>
+                <domanda id = "69" punti = "40">Quale tra i seguenti è il nome dello stadio del Parma?
+                    <risposta corretta="ok">Ennio Tardini</risposta>
+                    <risposta>San Filippo</risposta>
+                    <risposta>SantÒ Elia</risposta>
+                    <risposta>Dino Manuzzi</risposta>
+                </domanda>
+                <domanda id = "70" punti = "29">Qual'è il nome dello stadio della Sampdoria?
+                    <risposta corretta="ok">Marassi</risposta>
+                    <risposta>Oreste Granillo</risposta>
+                    <risposta>Luigi Ferraris</risposta>
+                    <risposta>Silvio Piola</risposta>
+                </domanda>
+                <domanda id = "71" punti = "30">Quale tra queste squadre non ha mai vinto un campionato del mondo?
+                    <risposta corretta="ok">Portogallo</risposta>
+                    <risposta>Brasile</risposta>
+                    <risposta>Argentina</risposta>
+                    <risposta>Germania</risposta>
+                </domanda>
+                <domanda id = "72" punti = "40">Quale tra queste nazioni non ha mai vinto un campionato del mondo?
+                    <risposta corretta="ok">Olanda</risposta>
+                    <risposta>Italia</risposta>
+                    <risposta>Inghilterra</risposta>
+                    <risposta>Uruguay</risposta>
+                </domanda>
+                <domanda id = "73" punti = "60">Quale di queste squadre non ha mai vinto una Coppa America?
+                    <risposta corretta="ok">Cile</risposta>
+                    <risposta>Perñ</risposta>
+                        <risposta>Uruguay</risposta>
+                        <risposta>Paraguay</risposta>
+                    </domanda>
+                    <domanda id = "74" punti = "60">Quale tra queste nazioni non ha mai vinto una Coppa America?
+                        <risposta corretta="ok">Ecuador</risposta>
+                        <risposta>Bolivia</risposta>
+                        <risposta>Colombia</risposta>
+                        <risposta>Argentina</risposta>
+                    </domanda>
+                    <domanda id = "75" punti = "85">Quale tra queste squadre non ha mai vinto la Coppa Libertadores?
+                        <risposta corretta="ok">Universidad Catolica</risposta>
+                        <risposta>Velez</risposta>
+                        <risposta>River Plate</risposta>
+                        <risposta>Cruzeiro</risposta>
+                    </domanda>
+                    <domanda id = "76" punti = "88">Quale tra queste squadre non ha mai vinto la Coppa Libertadores
+					<risposta> corretta="ok">Estudiantes</risposta>
+                    <risposta>Colo-Colo</risposta>
+                    <risposta>Independiente</risposta>
+                    <risposta>Penarol</risposta>
+                </domanda>
+                <domanda id = "77" punti = "51">Quale di queste squadre non ha mai vinto la Champions League?
+                    <risposta corretta="ok">Manchester City</risposta>
+                    <risposta>Aston Villa</risposta>
+                    <risposta>Celtic</risposta>
+                    <risposta>Feyenoord</risposta>
+                </domanda>
+                <domanda id = "78" punti = "53">Quale di queste squadre non si è¡­ai aggiudicata unÒ edizione della Champions League?
+                    <risposta corretta="ok">Olympique Lione</risposta>
+                    <risposta>Steaua Bucarest</risposta>
+                    <risposta>Olympique Marsiglia</risposta>
+                    <risposta>Juventus</risposta>
+                </domanda>
+                <domanda id = "79" punti = "58">Quale di queste squadre non ha mai vinto unÒ edizione della Champions League?
+                    <risposta corretta="ok">Valencia</risposta>
+                    <risposta>Notthingam Forest</risposta>
+                    <risposta>Ajax</risposta>
+                    <risposta>Benfica</risposta>
+                </domanda>
+                <domanda id = "80" punti = "58">Quale di queste squadre non si è¡­ai aggiudicata la Champions League?
+                    <risposta corretta="ok">Leeds</risposta>
+                    <risposta>Amburgo</risposta>
+                    <risposta>Porto</risposta>
+                    <risposta>PSV</risposta>
+                </domanda>
+                <domanda id = "81" punti = "58">Quale tra queste squadre non ha mai vinto la Champions League?
+                    <risposta corretta="ok">Club Bruges</risposta>
+                    <risposta>Stella Rossa</risposta>
+                    <risposta>Borussia Dortmund</risposta>
+                    <risposta>Feyenoord</risposta>
+                </domanda>
+                <domanda id = "82" punti = "10">Qual'è¡³tata la squadra con la migliore difesa in Italia nella stagione 2011-2012?
+                    <risposta corretta="ok">Juventus</risposta>
+                    <risposta>Udinese</risposta>
+                    <risposta>Fiorentina</risposta>
+                    <risposta>Milan</risposta>
+                </domanda>
+                <domanda id = "83" punti = "21">Con quanti punti la Juventus ha terminato il campionato di Serie A 2011-2012?
+                    <risposta corretta="ok">84</risposta>
+                    <risposta>86</risposta>
+                    <risposta>83</risposta>
+                    <risposta>85</risposta>
+                </domanda>
+                <domanda id = "84" punti = "45">Con quanti punti l'Udinese è¡²iuscita a classificarsi terza nel campionato di Serie A 2011-2012?
+                    <risposta corretta="ok">64</risposta>
+                    <risposta>60</risposta>
+                    <risposta>68</risposta>
+                    <risposta>70</risposta>
+                </domanda>
+                <domanda id = "85" punti = "6">Quale squadra ha vinto la Coppa del Rey nella stagione 2011-2012?
+                    <risposta corretta="ok">Barcellona</risposta>
+                    <risposta>Athletic Bilbao</risposta>
+                    <risposta>Real Madrid</risposta>
+                    <risposta>Valencia</risposta>
+                </domanda>
+                <domanda id = "86" punti = "10">Chi è il miglior capocannoniere della Coppa Italia 2011-2012?
+                    <risposta corretta="ok">Edison Cavani</risposta>
+                    <risposta>Zlatan Ibrahimovic</risposta>
+                    <risposta>Maxi Lopez</risposta>
+                    <risposta>Riccardo Meggiorini</risposta>
+                </domanda>
+                <domanda id = "87" punti = "8">Chi è stato il capocannoniere della Serie A 2010-2011?
+                    <risposta corretta="ok">Antonio Di Natale</risposta>
+                    <risposta>Diego Milito</risposta>
+                    <risposta>Fabrizio Miccoli</risposta>
+                    <risposta>Giampaolo Pazzini</risposta>
+                </domanda>
+                <domanda id = "88" punti = "50">Qual'è il nome dello stadio del Pescara?
+                    <risposta corretta="ok">Adriatico</risposta>
+                    <risposta>Euganeo</risposta>
+                    <risposta>Enzo Ricci</risposta>
+                    <risposta>Piercesare Tombolato</risposta>
+                </domanda>
+                <domanda id = "89" punti = "70">Chi è il miglior marcatore della Eredivisie 2011-2012?
+                    <risposta corretta="ok">Bas Dost</risposta>
+                    <risposta>Luuk De Jong</risposta>
+                    <risposta>Sanharib Malki</risposta>
+                    <risposta>Dries Mertens</risposta>
+                </domanda>
+                <domanda id = "90" punti = "19">Qual'è il nome dell'allenatore dell'Athletic Bilbao nella stagione 2011-2012?
+                    <risposta corretta="ok">Marcelo Bielsa</risposta>
+                    <risposta>Javier Irureta</risposta>
+                    <risposta>Rafael Benitez</risposta>
+                    <risposta>Luis Enrique</risposta>
+                </domanda>
+                <domanda id = "91" punti = "15">Quale allenatore ha allenato il Siena nella stagione 2011-2012?
+                    <risposta corretta="ok">Giuseppe Sannino</risposta>
+                    <risposta> Davide Ballardini</risposta>
+                    <risposta>Gianluca Atzori</risposta>
+                    <risposta>Daniele Arrigoni</risposta>
+                </domanda>
+                <domanda id = "92" punti = "39">Con quanti milioni di euro il Manchester City si è¡¡ggiudicata il cartellino di Sergio Aguero?
+                    <risposta corretta="ok">45</risposta>
+                    <risposta>50</risposta>
+                    <risposta>40</risposta>
+                    <risposta>55</risposta>
+                </domanda>
+                <domanda id = "93" punti = "47">Con quanti milioni di euro l'Atletico Madrid ha comprato il cartellino di Radamel Falcao?
+                    <risposta corretta="ok">47</risposta>
+                    <risposta>45</risposta>
+                    <risposta>49</risposta>
+                    <risposta>44</risposta>
+                </domanda>
+                <domanda id = "94" punti = "18">Di quale squadra David De Gea era portiere prima di trasferirsi al Manchester United?
+                    <risposta corretta="ok">Atletico Madrid</risposta>
+                    <risposta>Valencia</risposta>
+                    <risposta>Villareal</risposta>
+                    <risposta>Real Madrid</risposta>
+                </domanda>
+                <domanda id = "95" punti = "7">Quanti campionati del mondo ha vinto il Brasile?
+                    <risposta corretta="ok">5</risposta>
+                    <risposta>3</risposta>
+                    <risposta>6</risposta>
+                    <risposta>4</risposta>
+                </domanda>
+                <domanda id = "96" punti = "5">Quanti campionati del mondo ha vinto l'Italia?
+                    <risposta corretta="ok">4</risposta>
+                    <risposta>5</risposta>
+                    <risposta>6</risposta>
+                    <risposta>3</risposta>
+                </domanda>
+                <domanda id = "97" punti = "60">Quale squadra del campionato inglese vinse la Premier League senza perdere neanche una partita nel campionato 2003-2004?
+                    <risposta corretta="ok">Arsenal</risposta>
+                    <risposta>Manchester United</risposta>
+                    <risposta>Manchester City</risposta>
+                    <risposta>Liverpool</risposta>
+                </domanda>
+                <domanda id = "98" punti = "5">Quale nazionale ha vinto il Mondiale nel 2010?
+                    <risposta corretta="ok">Spagna</risposta>
+                    <risposta>Olanda</risposta>
+                    <risposta>Germania</risposta>
+                    <risposta>Uruguay</risposta>
+                </domanda>
+                <domanda id = "99" punti = "50">Chi è il miglior marcatore di sempre della serie A con 274 reti?
+                    <risposta corretta="ok">Silvio Piola</risposta>
+                    <risposta>Francesco Totti</risposta>
+                    <risposta>Josè Altafini</risposta>
+                    <risposta>Roberto Baggio</risposta>
+                </domanda>
+                <domanda id = "100" punti = "25">Qual'è il colpo di mercato piñ ¯®eroso della storia del calcio?
+                    <risposta corretta="ok">Cristiano Ronaldo</risposta>
+                    <risposta>Zinedine Zidane</risposta>
+                    <risposta>Zlatan Ibrahimovic</risposta>
+                    <risposta>Ricardo Kakà</risposta>
+                    </domanda>
+                    <domanda id = "101" punti = "90">Qual'è stato il secondo colpo di mercato piñ ¯®eroso della storia del calcio?
+                        <risposta corretta="ok">Zinedine Zidane</risposta>
+                        <risposta>Zlatan Ibrahimovic</risposta>
+                        <risposta>Luis Figo</risposta>
+                        <risposta>Ricardo Kakà</risposta>
+                        </domanda>
+                        <domanda id = "102" punti = "75">Chi è il capocannoniere di tutti i tempi dell'Inter?
+                            <risposta corretta="ok">Giuseppe Meazza</risposta>
+                            <risposta>Sandro Mazzola</risposta>
+                            <risposta>Alessandro Altobelli</risposta>
+                            <risposta>Roberto Boninsegna</risposta>
+                        </domanda>
+                        <domanda id = "103" punti = "41">Qual'è l'unica squadra italiana che ha sempre militato nel campionato di serie A?
+                            <risposta corretta="ok">Inter</risposta>
+                            <risposta>Juventus</risposta>
+                            <risposta>Milan</risposta>
+                            <risposta>Roma</risposta>
+                        </domanda>
+                        <domanda id = "104" punti = "4">Qual'è la squadra italiana che ha vinto il maggior numero di campionati di seria A?
+                            <risposta corretta="ok">Juventus</risposta>
+                            <risposta>Pro Vercelli</risposta>
+                            <risposta>Milan</risposta>
+                            <risposta>Inter</risposta>
+                        </domanda>
+                        <domanda id = "105" punti = "15">Qual'è la squadra di calcio ad aver vinto più Champions League nella storia del calcio?
+                            <risposta corretta="ok">Real Madrid</risposta>
+                            <risposta>Milan</risposta>
+                            <risposta>Liverpool</risposta>
+                            <risposta>Barcellona</risposta>
+                        </domanda>
+                        <domanda id = "106" punti = "8">Qual'è il calciatore più prolifico della storia del calcio?
+                            <risposta corretta="ok">Pelè</risposta>
+                                <risposta>Arthur Friedenreich</risposta>
+                                <risposta>Diego Armando Maradona</risposta>
+                                <risposta>Franz Binder</risposta>
+                            </domanda>
+                            <domanda id = "107" punti = "15">Quali sono le due squadre italiane ad aver vinto il maggior numero di Coppe Italia?
+                                <risposta corretta="ok">Roma-Juvetus</risposta>
+                                <risposta>Roma-Milan</risposta>
+                                <risposta>Milan-Inter</risposta>
+                                <risposta>Inter-Juventus</risposta>
+                            </domanda>
+                            <domanda id = "108" punti = "7">Quale nazione ha ospitato i mondiali di calcio del 2010?
+                                <risposta corretta="ok">SudAfrica</risposta>
+                                <risposta>Germania</risposta>
+                                <risposta>Messico</risposta>
+                                <risposta>Argentina</risposta>
+                            </domanda>
+                            <domanda id = "109" punti = "8">Quale nazione ha ospitato i mondiali di calcio del 2006?
+                                <risposta corretta="ok">Germania</risposta>
+                                <risposta>Messico</risposta>
+                                <risposta>Argentina</risposta>
+                                <risposta>Francia</risposta>
+                            </domanda>
+                            <domanda id = "110" punti = "55">Qual'è la squadra inglese ad aver vinto il maggior numero di Champions League?
+                                <risposta corretta="ok">Liverpool</risposta>
+                                <risposta>Manchester United</risposta>
+                                <risposta>Chelsea</risposta>
+                                <risposta>Arsenal</risposta>
+                            </domanda>
+                            <domanda id = "111" punti = "55">Quale giocatore fu denominato 'Rombo di Tuono' per la potenza del suo tiro?
+                                <risposta corretta="ok">Luigi Riva</risposta>
+                                <risposta>Gabriel Batistuta</risposta>
+                                <risposta>Adriano</risposta>
+                                <risposta>Mijalovich</risposta>
+                            </domanda>
+                            <domanda id = "112" punti = "19">Di che nazionalità è l'allenatore del Manchester United Alex Ferguson?
+                                <risposta corretta="ok">Scozzese</risposta>
+                                <risposta>Inglese</risposta>
+                                <risposta>Gallese</risposta>
+                                <risposta>Irlandese</risposta>
+                            </domanda>
+                            <domanda id = "113" punti = "35">Quante Champions League ha vinto il Milan nella su storia?
+                                <risposta corretta="ok">7</risposta>
+                                <risposta>3</risposta>
+                                <risposta>5</risposta>
+                                <risposta>9</risposta>
+                            </domanda>
+                            <domanda id = "114" punti = "5">Quale squadra Europea è nota anche con il nome di 'The Red Devils'?
+                                <risposta corretta="ok">Manchester United</risposta>
+                                <risposta>Milan</risposta>
+                                <risposta>Bayern Monaco</risposta>
+                                <risposta>Liverpool</risposta>
+                            </domanda>
+                            <domanda id = "115" punti = "86">Quale giocatore detiene il record di presenze con la maglia del Manchester United?
+                                <risposta corretta="ok">Ryan Giggs</risposta>
+                                <risposta>Rio Ferdinand</risposta>
+                                <risposta>Bobby Charlton</risposta>
+                                <risposta>Bill Foulkes</risposta>
+                            </domanda>
+                            <domanda id = "116" punti = "98">Qual'è la società di calcio più antica del mondo?
+                                <risposta corretta="ok">Sheffield FC</risposta>
+                                <risposta>Nottingham Forest</risposta>
+                                <risposta>Celtic</risposta>
+                                <risposta>Rangers</risposta>
+                            </domanda>
+                            <domanda id = "117" punti = "34">Qual'è la squadra di calcio più antica in Italia?
+                                <risposta corretta="ok">Genoa</risposta>
+                                <risposta>Milan</risposta>
+                                <risposta>Udinese</risposta>
+                                <risposta>Pro Vercelli</risposta>
+                            </domanda>
+                            <domanda id = "118" punti = "21">Con quale squadra Josè Mourinho ha vinto la sua prima Champions League da allenatore?
+                                <risposta corretta="ok">Porto</risposta>
+                                <risposta>Inter</risposta>
+                                <risposta>Real Madrid</risposta>
+                                <risposta>Chelsea</risposta>
+                            </domanda>
+                            <domanda id = "119" punti = "4">Con quale allenatore l'Italia ha vinto i mondiali del 2006?
+                                <risposta corretta="ok">Lippi</risposta>
+                                <risposta>Trapattoni</risposta>
+                                <risposta>Donadoni</risposta>
+                                <risposta>Prandelli</risposta>
+                            </domanda>
+                            <domanda id = "120" punti = "18">Quale giocatore è denominato l'apache?
+                                <risposta corretta="ok">Tevez</risposta>
+                                <risposta>Rooney</risposta>
+                                <risposta>Vidic</risposta>
+                                <risposta>Eto'o</risposta>
+                            </domanda>
+                            <domanda id = "121" punti = "30">In quale squadra giocava Christian Vieri prima di approdare all'Inter?
+                                <risposta corretta="ok">Lazio</risposta>
+                                <risposta>Venezia</risposta>
+                                <risposta>Parma</risposta>
+                                <risposta>Atletico Madrid</risposta>
+                            </domanda>
+                            <domanda id = "122" punti = "59">Con la maglia di quale squadra Christian Vieri ha esordito tra i professionisti?
+                                <risposta corretta="ok">Torino</risposta>
+                                <risposta>Pisa</risposta>
+                                <risposta>Venezia</risposta>
+                                <risposta>Ravenna</risposta>
+                            </domanda>
+                            <domanda id = "123" punti = "20">In quale squadra giocava Filippo Inzaghi prima di approdare al Milan?
+                                <risposta corretta="ok">Juventus</risposta>
+                                <risposta>Piacenza</risposta>
+                                <risposta>Parma</risposta>
+                                <risposta>Atalanta</risposta>
+                            </domanda>
+                            <domanda id = "124" punti = "17">Con quale maglia Gabriel Batistuta ha messo a segno 168 gol in 269 presenza?
+                                <risposta corretta="ok">Fiorentina</risposta>
+                                <risposta>Roma</risposta>
+                                <risposta>Inter</risposta>
+                                <risposta>Boca Juniors</risposta>
+                            </domanda>
+                            <domanda id = "125" punti = "12">Di che nazionalità è il giocatore Eto'o?
+                                <risposta corretta="ok">Camerunense</risposta>
+                                <risposta>Congolese</risposta>
+                                <risposta>Ghananese</risposta>
+                                <risposta>SudAfricano</risposta>
+                            </domanda>
+                            <domanda id = "126" punti = "12">In quale squadra militava Pablo Osvaldo prima di giungere alla Roma?
+                                <risposta corretta="ok">Espanyol</risposta>
+                                <risposta>Villareal</risposta>
+                                <risposta>Athletic Bilbao</risposta>
+                                <risposta>Valencia</risposta>
+                            </domanda>
+                            <domanda id = "127" punti = "12">In quale squadra giocava Diego Milito prima di giungere all'Inter?
+                                <risposta corretta="ok">Genoa</risposta>
+                                <risposta>Parma</risposta>
+                                <risposta>Real Zaragoza</risposta>
+                                <risposta>Racing Avellaneda</risposta>
+                            </domanda>
+                            <domanda id = "128" punti = "12">In quale squadra giocava Simone Pepe prima di trasferirsi alla Juventus?
+                                <risposta corretta="ok">Udinese</risposta>
+                                <risposta>Cagliari</risposta>
+                                <risposta>Roma</risposta>
+                                <risposta>Palermo</risposta>
+                            </domanda>
+                            <domanda id = "129" punti = "50">Quale di questi giocatori è¡³oprannominato 'Er Chiacchera'?
+                                <risposta corretta="ok">Simone Pepe</risposta>
+                                <risposta>Antonio Cassano</risposta>
+                                <risposta>Adrian Mutu</risposta>
+                                <risposta>Juan Manuel Vargas</risposta>
+                            </domanda>
+                            <domanda id = "130" punti = "59">Quanti campionati italiani ha vinto il Bologna?
+                                <risposta corretta="ok">7</risposta>
+                                <risposta>5</risposta>
+                                <risposta>9</risposta>
+                                <risposta>3</risposta>
+                            </domanda>
+                            <domanda id = "131" punti = "87">Con quale squadra Roberto Mancini fece il suo esordio in Serie A?
+                                <risposta corretta="ok">Bologna</risposta>
+                                <risposta>Lazio</risposta>
+                                <risposta>Sampdoria</risposta>
+                                <risposta>Genoa</risposta>
+                            </domanda>
+                            <domanda id = "132" punti = "78">Chi è il miglior marcatore di sempre della storia dei Mondiali di calcio?
+                                <risposta corretta="ok">Ronaldo</risposta>
+                                <risposta>Gerd Muller</risposta>
+                                <risposta>Miroslav Klose</risposta>
+                                <risposta>Pelè</risposta>
+                                </domanda>
+                                <domanda id = "133" punti = "48">Dove si svolgeva il campionato che coronò l'Italia Campione del mondo per la terza volta nella sua storia nel 1982?
+                                    <risposta corretta="ok">Spagna</risposta>
+                                    <risposta>Messico</risposta>
+                                    <risposta>Argentina</risposta>
+                                    <risposta>Francia</risposta>
+                                </domanda>
+                                <domanda id = "134" punti = "38">Chi fu il capocannoniere dei mondiali del 1982?
+                                    <risposta corretta="ok">Paolo Rossi</risposta>
+                                    <risposta>Falcao</risposta>
+                                    <risposta>Zico</risposta>
+                                    <risposta>Zbigniew Boniek</risposta>
+                                </domanda>
+                                <domanda id = "135" punti = "64">Con la maglia di quale squadra Luigi Riva vinse il campionato italiano nel 1970?
+                                    <risposta corretta="ok">Cagliari</risposta>
+                                    <risposta>Legnano</risposta>
+                                    <risposta>Juventus</risposta>
+                                    <risposta>Milan</risposta>
+                                </domanda>
+                                <domanda id = "136" punti = "28">Con quale maglia Alessandro Del Piero ha esordito tra i professionisti?
+                                    <risposta corretta="ok">Padova</risposta>
+                                    <risposta>Parma</risposta>
+                                    <risposta>Genoa</risposta>
+                                    <risposta>Torino</risposta>
+                                </domanda>
+                                <domanda id = "136" punti = "47">Chi detiene il record per il maggior numero di presenze con la maglia della nazionale?
+                                    <risposta corretta="ok">Cannavaro</risposta>
+                                    <risposta>Maldini</risposta>
+                                    <risposta>Buffon</risposta>
+                                    <risposta>Zoff</risposta>
+                                </domanda>
+                                <domanda id = "137" punti = "92">Chi è il miglior marcatore di sempre della Nazionale Italiana?
+                                    <risposta corretta="ok">Luigi Riva</risposta>
+                                    <risposta>Silvio Piola</risposta>
+                                    <risposta>Alessandro Altobelli</risposta>
+                                    <risposta>Giuseppe Meazza</risposta>
+                                </domanda>
+                                <domanda id = "138" punti = "98">Qual'è stato il risultato della finale dei mondiali 1998 tra Brasile e Francia?
+                                    <risposta corretta="ok">0-3</risposta>
+                                    <risposta>4-1</risposta>
+                                    <risposta>1-4</risposta>
+                                    <risposta>2-0</risposta>
+                                </domanda>
+                                <domanda id = "139" punti = "57">In quale squadra ha fatto il suo esordio tra i professionisti  Giuseppe Rossi?
+                                    <risposta corretta="ok">Manchester United</risposta>
+                                    <risposta>Newcastle</risposta>
+                                    <risposta>Parma</risposta>
+                                    <risposta>Everton</risposta>
+                                </domanda>
+                                <domanda id = "140" punti = "37">Quale squadra si è¡£lassificata ultima nel campionato italiano nella stagione 2010-2011?
+                                    <risposta corretta="ok">Bari</risposta>
+                                    <risposta>Cesena</risposta>
+                                    <risposta>Brescia</risposta>
+                                    <risposta>Sampdoria</risposta>
+                                </domanda>
+                                <domanda id = "141" punti = "15">Da quale squadra si è¡´rasferito Sergio Aguero per poi approdare al Manchester City?
+                                    <risposta corretta="ok">Atletico Madrid</risposta>
+                                    <risposta>Liverpool</risposta>
+                                    <risposta>Espanyol</risposta>
+                                    <risposta>Valencia</risposta>
+                                </domanda>
+                                <domanda id = "142" punti = "40">Di quale squadra è¡£asa lo stadio Mestalla?
+                                    <risposta corretta="ok">Valencia</risposta>
+                                    <risposta>Espanyol</risposta>
+                                    <risposta>Villareal</risposta>
+                                    <risposta>Athletic Bilbao</risposta>
+                                </domanda>
+                                <domanda id = "143" punti = "20">Di quale squadra è¡£asa l'Emiretes Stadium?
+                                    <risposta corretta="ok">Arsenal</risposta>
+                                    <risposta>Liverpool</risposta>
+                                    <risposta>Fulham</risposta>
+                                    <risposta>Chelsea</risposta>
+                                </domanda>
+                                <domanda id = "144" punti = "85">Con quale cifra la Lazio nel 2000 si aggudicò ©¬ cartellino di Hernan Crespo?
+                                    <risposta corretta="ok">55 mln</risposta>
+                                    <risposta>52 mln</risposta>
+                                    <risposta>50 mln</risposta>
+                                    <risposta>49 mln</risposta>
+                                </domanda>
+                                <domanda id = "145" punti = "95">Con quale cifra il Real Madrid si aggiudicò ©¬ cartellino di Zinedine Zidane?
+                                    <risposta corretta="ok">73 mln</risposta>
+                                    <risposta>76 mln</risposta>
+                                    <risposta>56 mln</risposta>
+                                    <risposta>46 mln</risposta>
+                                </domanda>
+                                <domanda id = "146" punti = "70">Quale di queste nazionali ha vinto il maggior numero di Europei di calcio?
+                                    <risposta corretta="ok">Germania</risposta>
+                                    <risposta>Francia</risposta>
+                                    <risposta>Olanda</risposta>
+                                    <risposta>Italia</risposta>
+                                </domanda>
+                                <domanda id = "147" punti = "94">Qual'è il miglior marcatore della Coppa Italia di tutti i tempi?
+                                    <risposta corretta="ok">Alessandro Altobelli</risposta>
+                                    <risposta>Roberto Boninsegna</risposta>
+                                    <risposta>Giuseppe Savoldi</risposta>
+                                    <risposta>Gianluca Vialli</risposta>
+                                </domanda>
+                                <domanda id = "148" punti = "80">Quale di queste squadre non ha mai realizzato il Triplete?
+                                    <risposta corretta="ok">Real Madrid</risposta>
+                                    <risposta>Bayern Monaco</risposta>
+                                    <risposta>Manchester United</risposta>
+                                    <risposta>Milan</risposta>
+                                </domanda>
+                                <domanda id = "149" punti = "100">Chi è stato il giocatore a mettere a segno la rete piñ ¶¥loce della storia del calcio?
+                                    <risposta corretta="ok">Fred</risposta>
+                                    <risposta>Sandro Mazzola</risposta>
+                                    <risposta>Gianfranco Matteoli</risposta>
+                                    <risposta>Hakan Sukur</risposta>
+                                </domanda>
+                                <domanda id = "150" punti = "100">Qual'è¡¬o stadio con la maggior capienza di spettatori al Mondo?
+                                    <risposta corretta="ok">Rungrado May Day Stadium</risposta>
+                                    <risposta>Camp Nou</risposta>
+                                    <risposta>Maracanà</risposta>
+                                        <risposta>Estadio Azteca</risposta>
+                                    </domanda>
+                                    <domanda id = "151" punti = "40">Qual'è¡¬o stadio con la maggior capienza di spettatori in Europa?
+                                        <risposta corretta="ok">Camp Nou</risposta>
+                                        <risposta>Allianz Arena</risposta>
+                                        <risposta>San Siro</risposta>
+                                        <risposta>Amsterdam Arena</risposta>
+                                    </domanda>
+                                    <domanda id = "152" punti = "25">In quale squadra giocava Edison Cavani prima di trasferirsi al Napoli?
+                                        <risposta corretta="ok">Palermo</risposta>
+                                        <risposta>Genoa</risposta>
+                                        <risposta>Udinese</risposta>
+                                        <risposta>Parma</risposta>
+                                    </domanda>
+                                    <domanda id = "153" punti = "35">In quale squadra giocava Gianluigi Buffon prima di essere ceduto alla Juventus?
+                                        <risposta corretta="ok">Parma</risposta>
+                                        <risposta>Napoli</risposta>
+                                        <risposta>Lazio</risposta>
+                                        <risposta>Inter</risposta>
+                                    </domanda>
+                                    <domanda id = "154" punti = "66">Quale di questi giocatori non ha vinto 3 palloni d'oro?
+                                        <risposta corretta="ok">Franz Beckenbauer</risposta>
+                                        <risposta>Johan Cruijff</risposta>
+                                        <risposta>Michel Platini</risposta>
+                                        <risposta>Marco Van Basten</risposta>
+                                    </domanda>
+                                    <domanda id = "155" punti = "69">Quale di questi giocatori non ha mai vinto il pallone d'oro?
+                                        <risposta corretta="ok">Luigi Riva</risposta>
+                                        <risposta>Rivaldo</risposta>
+                                        <risposta>Ruud Gullit</risposta>
+                                        <risposta>Michael Owen</risposta>
+                                    </domanda>
+                                    <domanda id = "156" punti = "54">Quale di questi giocatori non ha mai vinto il pallone d'oro?
+                                        <risposta corretta="ok">Franco Tancredi</risposta>
+                                        <risposta>Roberto Baggio</risposta>
+                                        <risposta>George Best</risposta>
+                                        <risposta>Eusebio</risposta>
+                                    </domanda>
+                                    <domanda id = "157" punti = "22">Quanti campionati del mondo ha vinto la Germania?
+                                        <risposta corretta="ok">3</risposta>
+                                        <risposta>4</risposta>
+                                        <risposta>2</risposta>
+                                        <risposta>1</risposta>
+                                    </domanda>
+                                    <domanda id = "158" punti = "38">Quanti campionati del mondo ha vinto la Francia?
+                                        <risposta corretta="ok">1</risposta>
+                                        <risposta>2</risposta>
+                                        <risposta>3</risposta>
+                                        <risposta>Nessuno</risposta>
+                                    </domanda>
+                                    <domanda id = "159" punti = "48">Quanti campionati del mondo ha vinto l'Argentina?
+                                        <risposta corretta="ok">2</risposta>
+                                        <risposta>3</risposta>
+                                        <risposta>4</risposta>
+                                        <risposta>1</risposta>
+                                    </domanda>
+                                    <domanda id = "160" punti = "50">Quanti campionati del mondo ha vinto l'Inghilterra?
+                                        <risposta corretta="ok">1</risposta>
+                                        <risposta>Nessuno</risposta>
+                                        <risposta>2</risposta>
+                                        <risposta>3</risposta>
+                                    </domanda>
+                                    <domanda id = "161" punti = "22">Quanti campionati del mondo ha vinto la Spagna?
+                                        <risposta corretta="ok">1</risposta>
+                                        <risposta>2</risposta>
+                                        <risposta>3</risposta>
+                                        <risposta>4</risposta>
+                                    </domanda>
+                                    <domanda id = "162" punti = "60">Quanti campionati del mondo ha vinto l'Uruguay?
+                                        <risposta corretta="ok">2</risposta>
+                                        <risposta>3</risposta>
+                                        <risposta>1</risposta>
+                                        <risposta>Nessuno</risposta>
+                                    </domanda>
+                                    <domanda id = "163" punti = "45">Quanti campionati del mondo ha vinto l'Olanda?
+                                        <risposta corretta="ok">Nessuno</risposta>
+                                        <risposta>2</risposta>
+                                        <risposta>1</risposta>
+                                        <risposta>3</risposta>
+                                    </domanda>
+                                    <domanda id = "164" punti = "70">Quanti Europei ha vinto la Germania?
+                                        <risposta corretta="ok">3</risposta>
+                                        <risposta>2</risposta>
+                                        <risposta>4</risposta>
+                                        <risposta>1</risposta>
+                                    </domanda>
+                                    <domanda id = "165" punti = "70">Quanti Europei ha vinto la Spagna?
+                                        <risposta corretta="ok">3</risposta>
+                                        <risposta>2</risposta>
+                                        <risposta>1</risposta>
+                                        <risposta>4</risposta>
+                                    </domanda>
+                                    <domanda id = "166" punti = "40">Quanti Europei ha vinto l'Italia?
+                                        <risposta corretta="ok">1</risposta>
+                                        <risposta>2</risposta>
+                                        <risposta>3</risposta>
+                                        <risposta>4</risposta>
+                                    </domanda>
+                                    <domanda id = "167" punti = "70">Quanti Europei ha vinto la Francia?
+                                        <risposta corretta="ok">2</risposta>
+                                        <risposta>1</risposta>
+                                        <risposta>3</risposta>
+                                        <risposta>4</risposta>
+                                    </domanda>
+                                    <domanda id = "168" punti = "69">Quanti Europei ha vinto l'Olanda?
+                                        <risposta corretta="ok">1</risposta>
+                                        <risposta>2</risposta>
+                                        <risposta>3</risposta>
+                                        <risposta>Nessuno</risposta>
+                                    </domanda>
+                                    <domanda id = "169" punti = "80">Quanti Europei ha vinto l'Inghilterra?
+                                        <risposta corretta="ok">Nessuno</risposta>
+                                        <risposta>1</risposta>
+                                        <risposta>2</risposta>
+                                        <risposta>5</risposta>
+                                    </domanda>
+                                    <domanda id = "170" punti = "90">Quale tra queste nazioni ha vinto almeno una volta gli Europei?
+                                        <risposta corretta="ok">Russia</risposta>
+                                        <risposta>Svezia</risposta>
+                                        <risposta>Belgio</risposta>
+                                        <risposta>Norvegia</risposta>
+                                    </domanda>
+                                    <domanda id = "171" punti = "70">Quale di queste nazioni ha vinto almeno una volta gli Europei?
+                                        <risposta corretta="ok">Danimarca</risposta>
+                                        <risposta>Portogallo</risposta>
+                                        <risposta>Polonia</risposta>
+                                        <risposta>Croazia</risposta>
+                                    </domanda>
+                                    <domanda id = "172" punti = "50">Quale di queste nazioni ha vinto almeno una volta gli Europei?
+                                        <risposta corretta="ok">Grecia</risposta>
+                                        <risposta>Serbia</risposta>
+                                        <risposta>Ucraina</risposta>
+                                        <risposta>Ungheria</risposta>
+                                    </domanda>
+                                    <domanda id = "173" punti = "25">Quante Champions League ha vinto il Real Madrid nella sua storia?
+                                        <risposta corretta="ok">9</risposta>
+                                        <risposta>7</risposta>
+                                        <risposta>6</risposta>
+                                        <risposta>8</risposta>
+                                    </domanda>
+                                    <domanda id = "174" punti = "55">Quante Champions League ha vinto il Liverpool nella sua storia?
+                                        <risposta corretta="ok">5</risposta>
+                                        <risposta>4</risposta>
+                                        <risposta>3</risposta>
+                                        <risposta>2</risposta>
+                                    </domanda>
+                                    <domanda id = "175" punti = "55">Quante Champions League ha vinto il Bayern Monaco nella sua storia?
+                                        <risposta corretta="ok">4</risposta>
+                                        <risposta>3</risposta>
+                                        <risposta>5</risposta>
+                                        <risposta>2</risposta>
+                                    </domanda>
+                                    <domanda id = "176" punti = "75">Quante Champions League ha vinto l'Ajax nella su storia?
+                                        <risposta corretta="ok">4</risposta>
+                                        <risposta>3</risposta>
+                                        <risposta>5</risposta>
+                                        <risposta>2</risposta>
+                                    </domanda>
+                                    <domanda id = "177" punti = "35">Quante Champions League ha vinto il Barcellona nella sua storia?
+                                        <risposta corretta="ok">4</risposta>
+                                        <risposta>3</risposta>
+                                        <risposta>5</risposta>
+                                        <risposta>2</risposta>
+                                    </domanda>
+                                    <domanda id = "178" punti = "30">Quante Champions League ha vinto l'Inter nella sua storia?
+                                        <risposta corretta="ok">3</risposta>
+                                        <risposta>2</risposta>
+                                        <risposta>4</risposta>
+                                        <risposta>1</risposta>
+                                    </domanda>
+                                    <domanda id = "179" punti = "30">Quante Champions League ha vinto la Juventus nella sua storia?
+                                        <risposta corretta="ok">2</risposta>
+                                        <risposta>1</risposta>
+                                        <risposta>3</risposta>
+                                        <risposta>4</risposta>
+                                    </domanda>
+                                    <domanda id = "180" punti = "55">Quante Champions League ha vinto il Manchester United nella su storia?
+                                        <risposta corretta="ok">3</risposta>
+                                        <risposta>2</risposta>
+                                        <risposta>1</risposta>
+                                        <risposta>4</risposta>
+                                    </domanda>
+                                    <domanda id = "181" punti = "55">Quante Champions League ha vinto il Chelsea nella sua storia?
+                                        <risposta corretta="ok">1</risposta>
+                                        <risposta>4</risposta>
+                                        <risposta>2</risposta>
+                                        <risposta>3</risposta>
+                                    </domanda>
+                                    <domanda id = "182" punti = "79">Quale tra queste squadre non ha mai disputato una finale di Champions League?
+                                        <risposta corretta="ok">Schalke 04</risposta>
+                                        <risposta>Atletico Madrid</risposta>
+                                        <risposta>Sampdoria</risposta>
+                                        <risposta>Saint-Etienne</risposta>
+                                    </domanda>
+                                    <domanda id = "183" punti = "100">Quale squadra ha vinto la Coppa Italia nella stagione 2000-2001?
+                                        <risposta corretta="ok">Fiorentina</risposta>
+                                        <risposta>Parma</risposta>
+                                        <risposta>Milan</risposta>
+                                        <risposta>Roma</risposta>
+                                    </domanda>
+                                    <domanda id = "184" punti = "97">Quale squadra si è¡¡ggiudicata la Coppa Italia nella stagione 2001-2002?
+                                        <risposta corretta="ok">Parma</risposta>
+                                        <risposta>Milan</risposta>
+                                        <risposta>Lazio</risposta>
+                                        <risposta>Inter</risposta>
+                                    </domanda>
+                                    <domanda id = "185" punti = "95">Quale squadra ha vinto la Coppa Italia nella stagione 2002-2003?
+                                        <risposta corretta="ok">Milan</risposta>
+                                        <risposta>Lazio</risposta>
+                                        <risposta>Juventus</risposta>
+                                        <risposta>Roma</risposta>
+                                    </domanda>
+                                    <domanda id = "186" punti = "90">Quale squadra si è¡¡ggiudica la Coppa Italia nella stagione 2003-2004?
+                                        <risposta corretta="ok">Lazio</risposta>
+                                        <risposta>Inter</risposta>
+                                        <risposta>Juventus</risposta>
+                                        <risposta>Milan</risposta>
+                                    </domanda>
+                                    <domanda id = "187" punti = "85">Quale squadra ha vinto la Coppa Italia nella stagione 2004-2005?
+                                        <risposta corretta="ok">Inter</risposta>
+                                        <risposta>Milan</risposta>
+                                        <risposta>Roma</risposta>
+                                        <risposta>Parma</risposta>
+                                    </domanda>
+                                    <domanda id = "188" punti = "80">Quale squadra si è¡¡ggiudicata la Coppa Italia nella stagione 2005-2006?
+                                        <risposta corretta="ok">Inter</risposta>
+                                        <risposta>Lazio</risposta>
+                                        <risposta>Sampdoria</risposta>
+                                        <risposta>Juventus</risposta>
+                                    </domanda>
+                                    <domanda id = "189" punti = "75">Quale squadra ha vinto la Coppa Italia nella stagione 2006-2007?
+                                        <risposta corretta="ok">Roma</risposta>
+                                        <risposta>Inter</risposta>
+                                        <risposta>Milan</risposta>
+                                        <risposta>Lazio</risposta>
+                                    </domanda>
+                                    <domanda id = "190" punti = "70">Quale squadra si è¡¡ggiudicata la Coppa Italia nella stagione 2007-2008?
+                                        <risposta corretta="ok">Roma</risposta>
+                                        <risposta>Inter</risposta>
+                                        <risposta>Lazio</risposta>
+                                        <risposta>Milan</risposta>
+                                    </domanda>
+                                    <domanda id = "191" punti = "50">Quale squadra ha vinto la Coppa Italia nella stagione 2008-2009?
+                                        <risposta corretta="ok">Lazio</risposta>
+                                        <risposta>Inter</risposta>
+                                        <risposta>Roma</risposta>
+                                        <risposta>Milan</risposta>
+                                    </domanda>
+                                    <domanda id = "192" punti = "45">Quale squadra si è¡¡ggiudicata la Coppa Italia nella stagione 2009-2010?
+                                        <risposta corretta="ok">Inter</risposta>
+                                        <risposta>Lazio</risposta>
+                                        <risposta>Roma</risposta>
+                                        <risposta>Sampdoria</risposta>
+                                    </domanda>
+                                    <domanda id = "193" punti = "35">Quale squadra ha vinto la Coppa Italia nella stagione 2010-2011?
+                                        <risposta corretta="ok">Inter</risposta>
+                                        <risposta>Roma</risposta>
+                                        <risposta>Palermo</risposta>
+                                        <risposta>Milan</risposta>
+                                    </domanda>
+                                    <domanda id = "194" punti = "15">Quale squadra si è¡¡ggiudicata la Coppa Italia nella stagione 2011-2012?
+                                        <risposta corretta="ok">Napoli</risposta>
+                                        <risposta>Juventus</risposta>
+                                        <risposta>Milan</risposta>
+                                        <risposta>Fiorentina</risposta>
+                                    </domanda>
+                                    <domanda id = "195" punti = "13">In che stadio si disputa la finale di Coppa Italia?
+                                        <risposta corretta="ok">Stadio Olimpico</risposta>
+                                        <risposta>San Siro</risposta>
+                                        <risposta>San Paolo</risposta>
+                                        <risposta>Artemio Franchi</risposta>
+                                    </domanda>
+                                    <domanda id = "196" punti = "25">Quante Coppe Italia ha vinto la Roma nella sua storia?
+                                        <risposta corretta="ok">9</risposta>
+                                        <risposta>7</risposta>
+                                        <risposta>8</risposta>
+                                        <risposta>5</risposta>
+                                    </domanda>
+                                    <domanda id = "197" punti = "25">Quante Coppe Italia ha vinto la Juventus nella sua storia?
+                                        <risposta corretta="ok">9</risposta>
+                                        <risposta>7</risposta>
+                                        <risposta>8</risposta>
+                                        <risposta>5</risposta>
+                                    </domanda>
+                                    <domanda id = "198" punti = "50">Quante Coppe Italia ha vinto l'Inter nella sua storia?
+                                        <risposta corretta="ok">7</risposta>
+                                        <risposta>9</risposta>
+                                        <risposta>8</risposta>
+                                        <risposta>5</risposta>
+                                    </domanda>
+                                    <domanda id = "199" punti = "94">Quante Coppe Italia ha vinto la Fiorentina nella sua storia?
+                                        <risposta corretta="ok">6</risposta>
+                                        <risposta>3</risposta>
+                                        <risposta>2</risposta>
+                                        <risposta>5</risposta>
+                                    </domanda>
+                                    <domanda id = "200" punti = "50">Quante Coppe Italia ha vinto il Milan nella sua storia?
+                                        <risposta corretta="ok">5</risposta>
+                                        <risposta>4</risposta>
+                                        <risposta>3</risposta>
+                                        <risposta>2</risposta>
+                                    </domanda>
+                                    <domanda id = "201" punti = "90">Quante Coppe Italia ha vinto la Lazio nella sua Storia?
+                                        <risposta corretta="ok">5</risposta>
+                                        <risposta>4</risposta>
+                                        <risposta>3</risposta>
+                                        <risposta>2</risposta>
+                                    </domanda>
+                                    <domanda id = "202" punti = "90">Quante Coppe Italia ha vinto il Napoli nella sua storia?
+                                        <risposta corretta="ok">4</risposta>
+                                        <risposta>3</risposta>
+                                        <risposta>5</risposta>
+                                        <risposta>1</risposta>
+                                    </domanda>
+                                    <domanda id = "203" punti = "80">Quale di queste squadre non ha mai vinto una Coppa Italia?
+                                        <risposta corretta="ok">Palermo</risposta>
+                                        <risposta>Vado</risposta>
+                                        <risposta>Atalanta</risposta>
+                                        <risposta>Parma</risposta>
+                                    </domanda>
+                                    <domanda id = "204" punti = "75">Qual'è l'unica di queste squadre ad aver vinto almeno una volta la Coppa Italia?
+                                        <risposta corretta="ok">Venezia</risposta>
+                                        <risposta>Novara</risposta>
+                                        <risposta>Catanzaro</risposta>
+                                        <risposta>Padova</risposta>
+                                    </domanda>
+                                    <domanda id = "205" punti = "45">Qual'è l'unica di queste squadre ad aver vinto almeno una volta la Coppa Italia?
+                                        <risposta corretta="ok">Genoa</risposta>
+                                        <risposta>Cagliari</risposta>
+                                        <risposta>Spal</risposta>
+                                        <risposta>Cremonese</risposta>
+                                    </domanda>
+                                    <domanda id = "206" punti = "91">Quale di queste squadre ha vinto almeno una volta la Coppa Italia?
+                                        <risposta corretta="ok">Vicenza</risposta>
+                                        <risposta>Udinese</risposta>
+                                        <risposta>Verona</risposta>
+                                        <risposta>Ancona</risposta>
+                                    </domanda>
+                                    <domanda id = "207" punti = "79">Quale di queste squadre è l'unica ad aver vinto almeno una volta la Coppa Italia?
+                                        <risposta corretta="ok">Bologna</risposta>
+                                        <risposta>Varese</risposta>
+                                        <risposta>Siena</risposta>
+                                        <risposta>Chievo Verona</risposta>
+                                    </domanda>
+                                    <domanda id = "208" punti = "90">Quante Coppe Italia ha vinto La Sampdoria nella sua storia?
+                                        <risposta corretta="ok">1</risposta>
+                                        <risposta>Nessuna</risposta>
+                                        <risposta>3</risposta>
+                                        <risposta>4</risposta>
+                                    </domanda>
+                                    <domanda id = "209" punti = "5">Quanti scudetti ha vinto la Juventus nella sua storia?
+                                        <risposta corretta="ok">28</risposta>
+                                        <risposta>30</risposta>
+                                        <risposta>29</risposta>
+                                        <risposta>27</risposta>
+                                    </domanda>
+                                    <domanda id = "210" punti = "15">Quanti scudetti ha vinto l'Inter nella sua storia?
+                                        <risposta corretta="ok">18</risposta>
+                                        <risposta>19</risposta>
+                                        <risposta>20</risposta>
+                                        <risposta>17</risposta>
+                                    </domanda>
+                                    <domanda id = "211" punti = "21">Quanti scudetti ha vinto il Milan nella sua storia?
+                                        <risposta corretta="ok">18</risposta>
+                                        <risposta>19</risposta>
+                                        <risposta>20</risposta>
+                                        <risposta>17</risposta>
+                                    </domanda>
+                                    <domanda id = "212" punti = "78">Quanti scudetti ha vinto il Genoa nella sua storia?
+                                        <risposta corretta="ok">9</risposta>
+                                        <risposta>10</risposta>
+                                        <risposta>8</risposta>
+                                        <risposta>6</risposta>
+                                    </domanda>
+                                    <domanda id = "213" punti = "95">Quanti scudetti ha vinto il Torino nella sua storia?
+                                        <risposta corretta="ok">7</risposta>
+                                        <risposta>9</risposta>
+                                        <risposta>8</risposta>
+                                        <risposta>6</risposta>
+                                    </domanda>
+                                    <domanda id = "214" punti = "67">Quanti scudetti ha vinto il Bologna nella sua storia?
+                                        <risposta corretta="ok">7</risposta>
+                                        <risposta>9</risposta>
+                                        <risposta>8</risposta>
+                                        <risposta>6</risposta>
+                                    </domanda>
+                                    <domanda id = "215" punti = "67">Quanti scudetti ha vinto la Pro Vercelli?
+                                        <risposta corretta="ok">7</risposta>
+                                        <risposta>6</risposta>
+                                        <risposta>5</risposta>
+                                        <risposta>4</risposta>
+                                    </domanda>
+                                    <domanda id = "216" punti = "90">Quanti scudetti ha vinto il Cagliari nella sua storia?
+                                        <risposta corretta="ok">1</risposta>
+                                        <risposta>2</risposta>
+                                        <risposta>3</risposta>
+                                        <risposta>4</risposta>
+                                    </domanda>
+                                    <domanda id = "217" punti = "25">Quanti scudetti ha vinto la Roma nella sua storia?
+                                        <risposta corretta="ok">3</risposta>
+                                        <risposta>4</risposta>
+                                        <risposta>2</risposta>
+                                        <risposta>1</risposta>
+                                    </domanda>
+                                    <domanda id = "218" punti = "25">Quanti scudetti ha vinto la Lazio nella sua storia?
+                                        <risposta corretta="ok">2</risposta>
+                                        <risposta>1</risposta>
+                                        <risposta>Nessuno</risposta>
+                                        <risposta>4</risposta>
+                                    </domanda>
+                                    <domanda id = "219" punti = "40">Quanti scudetti ha vinto il Napoli nella sua storia?
+                                        <risposta corretta="ok">2</risposta>
+                                        <risposta>1</risposta>
+                                        <risposta>4</risposta>
+                                        <risposta>3</risposta>
+                                    </domanda>
+                                    <domanda id = "220" punti = "70">Quanti scudetti ha vinto la Fiorentina?
+                                        <risposta corretta="ok">2</risposta>
+                                        <risposta>1</risposta>
+                                        <risposta>Nessuno</risposta>
+                                        <risposta>4</risposta>
+                                    </domanda>
+                                    <domanda id = "221" punti = "90">Quanti scudetti ha vinto il Verona nella sua storia?
+                                        <risposta corretta="ok">1</risposta>
+                                        <risposta>2</risposta>
+                                        <risposta>3</risposta>
+                                        <risposta>Nessuno</risposta>
+                                    </domanda>
+                                    <domanda id = "222" punti = "70">Quanti scudetti ha vinto la Sampdoria nella sua storia?
+                                        <risposta corretta="ok">1</risposta>
+                                        <risposta>2</risposta>
+                                        <risposta>3</risposta>
+                                        <risposta>Nessuno</risposta>
+                                    </domanda>
+                                    <domanda id = "223" punti = "59">Quale di queste squadre non ha mai vinto un Campionato Italiano?
+                                        <risposta corretta="ok">Udinese</risposta>
+                                        <risposta>Casale</risposta>
+                                        <risposta>Verona</risposta>
+                                        <risposta>Novese</risposta>
+                                    </domanda>
+                                    <domanda id = "224" punti = "90">Quante volte ha vinto la Bundesliga il Bayern Monaco nella sua storia?
+                                        <risposta corretta="ok">22</risposta>
+                                        <risposta>23</risposta>
+                                        <risposta>24</risposta>
+                                        <risposta>21</risposta>
+                                    </domanda>
+                                    <domanda id = "225" punti = "95">Quante volte ha vinto la Bundesliga il Borussia Dortmund nella sua storia?
+                                        <risposta corretta="ok">8</risposta>
+                                        <risposta>9</risposta>
+                                        <risposta>10</risposta>
+                                        <risposta>7</risposta>
+                                    </domanda>
+                                    <domanda id = "226" punti = "100">Quante volte ha vinto la Bundesliga lo Schalke 04 nella sua storia?
+                                        <risposta corretta="ok">7</risposta>
+                                        <risposta>6</risposta>
+                                        <risposta>5</risposta>
+                                        <risposta>4</risposta>
+                                    </domanda>
+                                    <domanda id = "227" punti = "90">Quante volte ha vinto la Premier League il Manchester United?
+                                        <risposta corretta="ok">19</risposta>
+                                        <risposta>23</risposta>
+                                        <risposta>24</risposta>
+                                        <risposta>21</risposta>
+                                    </domanda>
+                                    <domanda id = "228" punti = "90">Quante volte ha vinto la Premier League l'Arsenal nella sua storia?
+                                        <risposta corretta="ok">13</risposta>
+                                        <risposta>14</risposta>
+                                        <risposta>15</risposta>
+                                        <risposta>10</risposta>
+                                    </domanda>
+                                    <domanda id = "229" punti = "95">Quante volte ha vinto la Premier League il Liverpool?
+                                        <risposta corretta="ok">18</risposta>
+                                        <risposta>19</risposta>
+                                        <risposta>20</risposta>
+                                        <risposta>15</risposta>
+                                    </domanda>
+                                    <domanda id = "230" punti = "98">Quante volte ha vinto la Premier League il Manchester City nella sua storia?
+                                        <risposta corretta="ok">3</risposta>
+                                        <risposta>4</risposta>
+                                        <risposta>5</risposta>
+                                        <risposta>8</risposta>
+                                    </domanda>
+                                    <domanda id = "231" punti = "100">Quante volte ha vinto la Premier League il Chelsea nella sua storia?
+                                        <risposta corretta="ok">4</risposta>
+                                        <risposta>2</risposta>
+                                        <risposta>1</risposta>
+                                        <risposta>Nessuna</risposta>
+                                    </domanda>
+                                    <domanda id = "232" punti = "90">Quante volte il Barcellona ha vinto il Campionato Spagnolo?
+                                        <risposta corretta="ok">21</risposta>
+                                        <risposta>20</risposta>
+                                        <risposta>19</risposta>
+                                        <risposta>22</risposta>
+                                    </domanda>
+                                    <domanda id = "233" punti = "90">Quante volte ha vinto il Campionato Spagnolo il Real Madrid?
+                                        <risposta corretta="ok">32</risposta>
+                                        <risposta>33</risposta>
+                                        <risposta>34</risposta>
+                                        <risposta>36</risposta>
+                                    </domanda>
+                                    <domanda id = "234" punti = "100">Quante volte il PSG ha vinto la Ligue 1?
+                                        <risposta corretta="ok">2</risposta>
+                                        <risposta>4</risposta>
+                                        <risposta>4</risposta>
+                                        <risposta>3</risposta>
+                                    </domanda>
+                                    <domanda id = "235" punti = "99">Quante volte l'Olympique Lione ha vinto la Ligue 1?
+                                        <risposta corretta="ok">7</risposta>
+                                        <risposta>6</risposta>
+                                        <risposta>5</risposta>
+                                        <risposta>4</risposta>
+                                    </domanda>
+                                    <domanda id = "236" punti = "99">Quante volte l'Olympique Marsiglia ha vinto la Ligue 1?
+                                        <risposta corretta="ok">9</risposta>
+                                        <risposta>7</risposta>
+                                        <risposta>8</risposta>
+                                        <risposta>6</risposta>
+                                    </domanda>
+                                    <domanda id = "237" punti = "100">Quante volte l'Ajax ha vinto l'Eredivisie?
+                                        <risposta corretta="ok">31</risposta>
+                                        <risposta>35</risposta>
+                                        <risposta>25</risposta>
+                                        <risposta>28</risposta>
+                                    </domanda>
+                                    <domanda id = "238" punti = "17">Quale giocatore ha realizzato il maggior numero di gol con la maglia di una sola squadra in Serie A?
+                                        <risposta corretta="ok">Francesco Totti</risposta>
+                                        <risposta>Giuseppe Meazza</risposta>
+                                        <risposta>Gunnar Nordhal</risposta>
+                                        <risposta>Alessandro Del Piero</risposta>
+                                    </domanda>
+                                    <domanda id = "239" punti = "74">Quanti gol ha realizzato Silvio Piola in Serie A?
+                                        <risposta corretta="ok">274</risposta>
+                                        <risposta>255</risposta>
+                                        <risposta>289</risposta>
+                                        <risposta>263</risposta>
+                                    </domanda>
+                                    <domanda id = "240" punti = "25">Quale di questi portieri era soprannominato l'Uomo Ragno?
+                                        <risposta corretta="ok">Walter Zenga</risposta>
+                                        <risposta>Dino Zoff</risposta>
+                                        <risposta>Francesco Toldo</risposta>
+                                        <risposta>Marco Ballotta</risposta>
+                                    </domanda>
+                                    <domanda id = "241" punti = "55">Di dove  è¡¯riginario il giocatore Marek Jankulovski?
+                                        <risposta corretta="ok">Repubblica Ceca</risposta>
+                                        <risposta>Ucraina</risposta>
+                                        <risposta>Russia</risposta>
+                                        <risposta>Polonia</risposta>
+                                    </domanda>
+                                    <domanda id = "242" punti = "39">In che squadra giocava Marek Jankulovski prima di approdare al Milan?
+                                        <risposta corretta="ok">Udinese</risposta>
+                                        <risposta>Napoli</risposta>
+                                        <risposta>Genoa</risposta>
+                                        <risposta>Palermo</risposta>
+                                    </domanda>
+                                    <domanda id = "243" punti = "20">In che squadra giocava Fabio Grosso nel 2006 l'anno dei Mondiali in Germania?
+                                        <risposta corretta="ok">Palermo</risposta>
+                                        <risposta>Lazio</risposta>
+                                        <risposta>Napoli</risposta>
+                                        <risposta>Juventus</risposta>
+                                    </domanda>
+                                    <domanda id = "244" punti = "40">In che squadra giocava Luca Toni prima di approdare alla Fiorentina?
+                                        <risposta corretta="ok">Palermo</risposta>
+                                        <risposta>Vicenza</risposta>
+                                        <risposta>Brescia</risposta>
+                                        <risposta>Cagliari</risposta>
+                                    </domanda>
+                                    <domanda id = "245" punti = "46">Quali sono i colori ufficiali della squadra Basilea?
+                                        <risposta corretta="ok">Rosso-Blu</risposta>
+                                        <risposta>Bianco-Verde</risposta>
+                                        <risposta>Bianco-Blu</risposta>
+                                        <risposta>Rosso-Giallo</risposta>
+                                    </domanda>
+                                    <domanda id = "246" punti = "59">Quali sono i colori ufficiali della squadra Athletic Bilbao?
+                                        <risposta corretta="ok">Rosso-Bianco</risposta>
+                                        <risposta>Bianco-Verde</risposta>
+                                        <risposta>Nero-Rosso</risposta>
+                                        <risposta>Nero-Verde</risposta>
+                                    </domanda>
+                                    <domanda id = "247" punti = "90">In quale città¡³i sono svolti gli ottavi di finale dei Mondiali 2006 tra Italia e Australia?
+                                        <risposta corretta="ok">Kaiserslautern</risposta>
+                                        <risposta>Norimberga</risposta>
+                                        <risposta>Hannover</risposta>
+                                        <risposta>Lipsia</risposta>
+                                    </domanda>
+                                    <domanda id = "248" punti = "70">Nello stadio di quale città¡³i sono svolti i quarti di finale dei Mondiali 2006  tra Italia e Ucraina?
+                                        <risposta corretta="ok">Amburgo</risposta>
+                                        <risposta>Monaco di Baviera</risposta>
+                                        <risposta>Dortmund</risposta>
+                                        <risposta>Gelsenkirchen</risposta>
+                                    </domanda>
+                                    <domanda id = "249" punti = "49">Nello stadio di quale città¡³i è¡³volta la semifinale dei Mondiali 2006 tra Germania e Italia?
+                                        <risposta corretta="ok">Dortmund</risposta>
+                                        <risposta>Colonia</risposta>
+                                        <risposta>Stoccarda</risposta>
+                                        <risposta>Amburgo</risposta>
+                                    </domanda>
+                                    <domanda id = "250" punti = "18">Nello stadio di quale città¡³i è¡³volta al finale dei Mondiali 2006 tra Italia e Francia?
+                                        <risposta corretta="ok">Berlino</risposta>
+                                        <risposta>Dortmund</risposta>
+                                        <risposta>Monaco di Baviera</risposta>
+                                        <risposta>Hannover</risposta>
+                                    </domanda>
+                                    <domanda id = "251" punti = "99">In quale stadio si è¡³volta al semifinale dei Mondiali 2006 tra Germania e Italia?
+                                        <risposta corretta="ok">Westfalenstadion</risposta>
+                                        <risposta>Commerzbank-Arena</risposta>
+                                        <risposta>AOL Arena</risposta>
+                                        <risposta>RheinEnergieStadion</risposta>
+                                    </domanda>
+                                    <domanda id = "252" punti = "90">In quale stadio si è¡³volta la finale dei Mondiali 2006 tra Italia e Francia?
+                                        <risposta corretta="ok">Olympiastadion</risposta>
+                                        <risposta>Allianz Arena</risposta>
+                                        <risposta>AWD-Arena</risposta>
+                                        <risposta>Zentralstadion</risposta>
+                                    </domanda>
+                                    <domanda id = "253" punti = "67">Chi fece i due gol nella partita Italia-Ghana dei Mondiali 2006 durante al fase a gironi?
+                                        <risposta corretta="ok">Pirlo-Iaquinta</risposta>
+                                        <risposta>Iaquinta-Gilardino</risposta>
+                                        <risposta>Pirlo-Inzaghi</risposta>
+                                        <risposta>Toni-Gilardino</risposta>
+                                    </domanda>
+                                    <domanda id = "254" punti = "67">Quale fu il risultato della partita Italia-Stati Uniti dei Mondiali 2006 durante la fase a gironi?
+                                        <risposta corretta="ok">1-1</risposta>
+                                        <risposta>2-1</risposta>
+                                        <risposta>1-2</risposta>
+                                        <risposta>3-2</risposta>
+                                    </domanda>
+                                    <domanda id = "255" punti = "76">Quale fu il risultato della partita Italia-Rep. Ceca dei Mondiali 2006 durante al fase a gironi?
+                                        <risposta corretta="ok">2-0</risposta>
+                                        <risposta>2-1</risposta>
+                                        <risposta>3-0</risposta>
+                                        <risposta>1-2</risposta>
+                                    </domanda>
+                                    <domanda id = "256" punti = "34">Chi mise a segno l'unica rete della partita Italia-Australia negli ottavi di finale dei Mondiali 2006?
+                                        <risposta corretta="ok">Francesco Totti</risposta>
+                                        <risposta>Alberto Gilardino</risposta>
+                                        <risposta>Luca Toni</risposta>
+                                        <risposta>Marco Materazzi</risposta>
+                                    </domanda>
+                                    <domanda id = "257" punti = "48"> Quale fu il risultato della partita Italia-Ucraina nei quarti di finale dei Mondiali 2006?
+                                        <risposta corretta="ok">3-0</risposta>
+                                        <risposta>2-1</risposta>
+                                        <risposta>2-0</risposta>
+                                        <risposta>4-0</risposta>
+                                    </domanda>
+                                    <domanda id = "258" punti = "12"> Quale fu il risultato della partita Germania-Italia nella semifinale dei Mondiali 2006?
+                                        <risposta corretta="ok">2-0</risposta>
+                                        <risposta>2-1</risposta>
+                                        <risposta>4-3</risposta>
+                                        <risposta>3-2</risposta>
+                                    </domanda>
+                                    <domanda id = "259" punti = "22">Quanto finì¡¬a sfida ai rigori tra Italia-Francia nella finale dei Mondiali 2006?
+                                        <risposta corretta="ok">5-3</risposta>
+                                        <risposta>5-4</risposta>
+                                        <risposta>4-2</risposta>
+                                        <risposta>4-1</risposta>
+                                    </domanda>
+                                    <domanda id = "260" punti = "20">Quale tra questi giocatori Italiani non ha battuto il rigore nella finale dei Mondiali 2006?
+                                        <risposta corretta="ok">Francesco Totti</risposta>
+                                        <risposta>Alessandro Del Piero</risposta>
+                                        <risposta>Daniele De Rossi</risposta>
+                                        <risposta>Marco Materazzi</risposta>
+                                    </domanda>
+                                    <domanda id = "261" punti = "40">Quale tra questi giocatori Francesi non ha battuto il rigore nella finale dei Mondiali 2006?
+                                        <risposta corretta="ok">Florent Malouda</risposta>
+                                        <risposta>Willy Sagnol</risposta>
+                                        <risposta>Eric Abidal</risposta>
+                                        <risposta>Sylvain Wiltord</risposta>
+                                    </domanda>
+                                    <domanda id = "262" punti = "35">Qual'è stato l'unico giocatore italiano a realizzare una doppietta durante i Mondiali del 2006?
+                                        <risposta corretta="ok">Luca Toni</risposta>
+                                        <risposta>Andrea Pirlo</risposta>
+                                        <risposta>Alberto Gilardino</risposta>
+                                        <risposta>Vincenzo Iaquinta</risposta>
+                                    </domanda>
+                                    <domanda id = "263" punti = "58">Quanti gol ha messo a segno Luca Toni nei Mondiali 2006?
+                                        <risposta corretta="ok">2</risposta>
+                                        <risposta>3</risposta>
+                                        <risposta>4</risposta>
+                                        <risposta>5</risposta>
+                                    </domanda>
+                                    <domanda id = "264" punti = "70">Quanti gol ha messo a segno Marco Materazzi nei Mondiali 2006?
+                                        <risposta corretta="ok">2</risposta>
+                                        <risposta>3</risposta>
+                                        <risposta>1</risposta>
+                                        <risposta>4</risposta>
+                                    </domanda>
+                                    <domanda id = "265" punti = "47">Quale tra questi giocatori italiani non ha realizzato nessuna rete nei Mondiali 2006?
+                                        <risposta corretta="ok">Daniele De Rossi</risposta>
+                                        <risposta>Gianluca Zambrotta</risposta>
+                                        <risposta>Francesco Totti</risposta>
+                                        <risposta>Filippo Inzaghi</risposta>
+                                    </domanda>
+                                    <domanda id = "266" punti = "79">Chi fu il capocannoniere dei Mondiali di calcio 2006?
+                                        <risposta corretta="ok">Miroslav Klose</risposta>
+                                        <risposta>Fernando Torres</risposta>
+                                        <risposta>Thierry Henry</risposta>
+                                        <risposta>Ronaldo</risposta>
+                                    </domanda>
+                                    <domanda id = "267" punti = "22">Chi mise a segno per l'Italia la rete dell'1-1 contro la Francia nei Mondiali 2006?
+                                        <risposta corretta="ok">Marco Materazzi</risposta>
+                                        <risposta>Luca Toni</risposta>
+                                        <risposta>Andrea Pirlo</risposta>
+                                        <risposta>Francesco Totti</risposta>
+                                    </domanda>
+                                    <domanda id = "268" punti = "8">Chi era il capitano della Nazionale Italiana vincitrice dei Mondiali 2006?
+                                        <risposta corretta="ok">Fabio Cannavaro</risposta>
+                                        <risposta>Gianluigi Buffon</risposta>
+                                        <risposta>Andrea Pirlo</risposta>
+                                        <risposta>Francesco Totti</risposta>
+                                    </domanda>
+                                    <domanda id = "269" punti = "35">Chi era il capitano della Nazionale Spagnola vincitrice dei Mondiali 2010?
+                                        <risposta corretta="ok">Iker Casillas</risposta>
+                                        <risposta>Carles Puyol</risposta>
+                                        <risposta>Xavi</risposta>
+                                        <risposta>Andrê³ Iniesta</risposta>
+                                    </domanda>
+                                    <domanda id = "270" punti = "100">Di dove è¡¯riginario l'arbitro della finale dei Mondiali 2006?
+                                        <risposta corretta="ok">Argentina</risposta>
+                                        <risposta>Inghilterra</risposta>
+                                        <risposta>Spagna</risposta>
+                                        <risposta>Messico</risposta>
+                                    </domanda>
+                                    <domanda id = "271" punti = "65">Qual'è il significato di Jabulani, il pallone ufficiale dei Mondiali 2010?
+                                        <risposta corretta="ok">Esultare</risposta>
+                                        <risposta>Festeggiare</risposta>
+                                        <risposta>Celebrare</risposta>
+                                        <risposta>Solennizzare</risposta>
+                                    </domanda>
+                                    <domanda id = "272" punti = "49">Quale tra questi giocatori italiani non ha realizzato nessuna rete nei Mondiali 2010?
+                                        <risposta corretta="ok">Giampaolo Pazzini</risposta>
+                                        <risposta>Daniele De Rossi</risposta>
+                                        <risposta>Vincenzo Iaquinta</risposta>
+                                        <risposta>Antonio Di Natale</risposta>
+                                    </domanda>
+                                    <domanda id = "273" punti = "55">Chi ha vinto la scarpa d'oro come miglior marcatore nei mondiali 2010?
+                                        <risposta corretta="ok">Thomas Muller</risposta>
+                                        <risposta>Diego Forlan</risposta>
+                                        <risposta>Wesley Sneijder</risposta>
+                                        <risposta>David Villa</risposta>
+                                    </domanda>
+                                    <domanda id = "274" punti = "23">Quale tra i seguenti giocatori ha vinto il premo 'guanto d'oro' ai Mondiali 2010?
+                                        <risposta corretta="ok">Iker Casillas</risposta>
+                                        <risposta>Maarten Stekelemburg</risposta>
+                                        <risposta>Fernando Muslera</risposta>
+                                        <risposta>Samir Handanovic</risposta>
+                                    </domanda>
+                                    <domanda id = "275" punti = "23">Chi ha vinto il 'pallone d'oro' ai Mondiali 2010, premio assegnato al miglior giocatore del torneo?
+                                        <risposta corretta="ok">Diego Forlan</risposta>
+                                        <risposta>Luis Suarez</risposta>
+                                        <risposta>David Villa</risposta>
+                                        <risposta>Wesley Sneijder</risposta>
+                                    </domanda>
+                                    <domanda id = "276" punti = "20">Quale fu il risultato della finale dei Mondiali 2010 tra Spagna e Olanda?
+                                        <risposta corretta="ok">1-0</risposta>
+                                        <risposta>2-0</risposta>
+                                        <risposta>2-1</risposta>
+                                        <risposta>3-1</risposta>
+                                    </domanda>
+                                    <domanda id = "277" punti = "85">Chi ha arbitrato la finale dei Mondiali 2010?
+                                        <risposta corretta="ok">Howard Webb</risposta>
+                                        <risposta>Benito Archundia</risposta>
+                                        <risposta>Viktor Kassai</risposta>
+                                        <risposta>Ravshan Irmatov</risposta>
+                                    </domanda>
+                                    <domanda id = "278" punti = "90">In quale stadio si è¡³volta la finale dei Mondiali 2010?
+                                        <risposta corretta="ok">FNB Stadium</risposta>
+                                        <risposta>Nelson Mandela Bay Stadium</risposta>
+                                        <risposta>Mbombela Stadium</risposta>
+                                        <risposta>Free State Stadium</risposta>
+                                    </domanda>
+                                    <domanda id = "279" punti = "79">In quale città¡³i è¡³volta la finale dei Mondiali di calcio 2010?
+                                        <risposta corretta="ok">Johannesburg</risposta>
+                                        <risposta>Città¡¤el Capo</risposta>
+                                        <risposta>Durban</risposta>
+                                        <risposta>Polokwane</risposta>
+                                    </domanda>
+                                    <domanda id = "280" punti = "55">Con quanti punti l'Italia venne eliminata dalla fase a girone nei Mondiali 2010?
+                                        <risposta corretta="ok">2</risposta>
+                                        <risposta>3</risposta>
+                                        <risposta>1</risposta>
+                                        <risposta>0</risposta>
+                                    </domanda>
+                                    <domanda id = "281" punti = "34">In che posizione si piazzò l'Italia nella fase a girone ai Mondiali 2010?
+                                        <risposta corretta="ok">Quarta</risposta>
+                                        <risposta>Prima</risposta>
+                                        <risposta>Seconda</risposta>
+                                        <risposta>Terza</risposta>
+                                    </domanda>
+                                    <domanda id = "282" punti = "30">Quale nazionale si è¡°iazzata terza ai Mondiali 2010?
+                                        <risposta corretta="ok">Germania</risposta>
+                                        <risposta>Uruguay</risposta>
+                                        <risposta>Portogallo</risposta>
+                                        <risposta>Brasile</risposta>
+                                    </domanda>
+                                    <domanda id = "283" punti = "30">Quale nazionale si è¡°iazzata terza ai Mondiali 2006?
+                                        <risposta corretta="ok">Germania</risposta>
+                                        <risposta>Portogallo</risposta>
+                                        <risposta>Spagna</risposta>
+                                        <risposta>Brasile</risposta>
+                                    </domanda>
+                                    <domanda id = "284" punti = "40">Chi allenava la Francia nei Mondiali 2006?
+                                        <risposta corretta="ok">Raymond Domenech</risposta>
+                                        <risposta>Didier Deschamps</risposta>
+                                        <risposta>Laurent Blanc</risposta>
+                                        <risposta>Jacques Santini</risposta>
+                                    </domanda>
+                                    <domanda id = "285" punti = "60">Chi allenava la Germania nei Moniali 2006?
+                                        <risposta corretta="ok">Jð²§¥n Klinsmann</risposta>
+                                        <risposta>Joachim l'·</risposta>
+                                            <risposta>Mario Vò¬¬¥r</risposta>
+                                            <risposta>Erich Ribbeck</risposta>
+                                        </domanda>
+                                        <domanda id = "286" punti = "30">Chi allenava la Germania nei Mondiali 2010?
+                                            <risposta corretta="ok">Joachim l'·</risposta>
+                                                <risposta>Jð²§¥n Klinsmann</risposta>
+                                                <risposta>Mario Vò¬¬¥r</risposta>
+                                                <risposta>Erich Ribbeck</risposta>
+                                            </domanda>
+                                            <domanda id = "287" punti = "10">Chi ha allenato la Spagna nei Mondiali 2010?
+                                                <risposta corretta="ok">Vicente Del Bosque</risposta>
+                                                <risposta>Luis Aragonê³¼</risposta>
+                                                    <risposta>Inaki Sâ¦º</risposta>
+                                                    <risposta>Josè Antonio Camacho</risposta>
+                                                </domanda>
+                                                <domanda id = "288" punti = "20">Chi allenava l'Inghilterra nei Mondiali 2010?
+                                                    <risposta corretta="ok">Fabio Capello</risposta>
+                                                    <risposta>Roy Hodgson</risposta>
+                                                    <risposta>Stuart Pearce</risposta>
+                                                    <risposta>Steve McClaren</risposta>
+                                                </domanda>
+                                                <domanda id = "289" punti = "100">Qual'è il significato di Teamgeist, pallone ufficiale dei Mondiali 2006?
+                                                    <risposta corretta="ok">Spirito di squadra</risposta>
+                                                    <risposta>Gioco di squadra</risposta>
+                                                    <risposta>Pallone fortunato</risposta>
+                                                    <risposta>Gioco di compagnia</risposta>
+                                                </domanda>
+                                                <domanda id = "290" punti = "41">Quale squadra si classificò ±µarta ai Mondiali del 2010?
+                                                    <risposta corretta="ok">Uruguay</risposta>
+                                                    <risposta>Portogallo</risposta>
+                                                    <risposta>Germania</risposta>
+                                                    <risposta>Brasile</risposta>
+                                                </domanda>
+                                                <domanda id = "291" punti = "71">Quale nazionale si classificò ±µarta ai Mondiali del 2006?
+                                                    <risposta corretta="ok">Portogallo</risposta>
+                                                    <risposta>Germania</risposta>
+                                                    <risposta>Uruguay</risposta>
+                                                    <risposta>Brasile</risposta>
+                                                </domanda>
+                                                <domanda id = "292" punti = "30">Qual'è il colore della terza maglia dell'Udinese?
+                                                    <risposta corretta="ok">Nera</risposta>
+                                                    <risposta>Bianca</risposta>
+                                                    <risposta>Arancione</risposta>
+                                                    <risposta>Blu</risposta>
+                                                </domanda>
+                                                <domanda id = "293" punti = "30">Qual'è il colore della terza maglia del Cagliari?
+                                                    <risposta corretta="ok">Rossa</risposta>
+                                                    <risposta>Arancione</risposta>
+                                                    <risposta>Blu</risposta>
+                                                    <risposta>Verde</risposta>
+                                                </domanda>
+                                                <domanda id = "295" punti = "20">Qual'è il colore della terza maglia della Lazio?
+                                                    <risposta corretta="ok">Bianca</risposta>
+                                                    <risposta>Verde</risposta>
+                                                    <risposta>Nera</risposta>
+                                                    <risposta>Azzurra</risposta>
+                                                </domanda>
+                                                <domanda id = "296" punti = "20">Qual'è il colore della terza maglia del Palermo?
+                                                    <risposta corretta="ok">Bianca</risposta>
+                                                    <risposta>Nera</risposta>
+                                                    <risposta>Rosa</risposta>
+                                                    <risposta>Rossa</risposta>
+                                                </domanda>
+                                                <domanda id = "297" punti = "30">Qual'è il colore della terza maglia della Sampdoria?
+                                                    <risposta corretta="ok">Nera</risposta>
+                                                    <risposta>Blu</risposta>
+                                                    <risposta>Bianca</risposta>
+                                                    <risposta>Verde</risposta>
+                                                </domanda>
+                                                <domanda id = "298" punti = "10">Qual'è il colore della terza maglia del Milan?
+                                                    <risposta corretta="ok">Nera</risposta>
+                                                    <risposta>Rossa</risposta>
+                                                    <risposta>Bianca</risposta>
+                                                    <risposta>Blu</risposta>
+                                                </domanda>
+                                                <domanda id = "300" punti = "30">Qual'è il colore della terza divisa del Napoli?
+                                                    <risposta corretta="ok">Bianca</risposta>
+                                                    <risposta>Grigia</risposta>
+                                                    <risposta>Gialla</risposta>
+                                                    <risposta>Azzurra</risposta>
+                                                </domanda>
+                                                <domanda id = "301" punti = "90">Quale squadra ha vinto il campionato nella stagione 1999-2000?
+                                                    <risposta corretta="ok">Lazio</risposta>
+                                                    <risposta>Roma</risposta>
+                                                    <risposta>Milan</risposta>
+                                                    <risposta>Juventus</risposta>
+                                                </domanda>
+                                                <domanda id = "302" punti = "70">Quale tra questi famosi giocatori olandesi era chiamato 'Il Cigno di Utrecht'?
+                                                    <risposta corretta="ok">Marco Van Basten</risposta>
+                                                    <risposta>Leonard Van Utrecht</risposta>
+                                                    <risposta>Dennis Bergkamp</risposta>
+                                                    <risposta>Ruud Gullit</risposta>
+                                                </domanda>
+                                                <domanda id = "303" punti = "24">Quale tra questi giocatori è¡³oprannominato 'El Nino Maravilla'?
+                                                    <risposta corretta="ok">Alexis Sanchez</risposta>
+                                                    <risposta>Fernando Torres</risposta>
+                                                    <risposta>David Villa</risposta>
+                                                    <risposta>Diego Forlan</risposta>
+                                                </domanda>
+                                                <domanda id = "304" punti = "44">Quale tra questi giocatori era chiamato 'Long John'?
+                                                    <risposta corretta="ok">Giorgio Chinaglia</risposta>
+                                                    <risposta>Alessando Costacurta</risposta>
+                                                    <risposta>Hê¤´or Cuper</risposta>
+                                                    <risposta>Antonio Cabrini</risposta>
+                                                </domanda>
+                                                <domanda id = "305" punti = "84">Di dove è¡¯riginario l'ex calciatore del Milan George Weah?
+                                                    <risposta corretta="ok">Liberia</risposta>
+                                                    <risposta>Libia</risposta>
+                                                    <risposta>Ghana</risposta>
+                                                    <risposta>Camerun</risposta>
+                                                </domanda>
+                                                <domanda id = "306" punti = "90">Quale di questi giocatori era chiamato 'Magic Box'?
+                                                    <risposta corretta="ok">Gianfranco Zola</risposta>
+                                                    <risposta>Marcelo Zalayeta</risposta>
+                                                    <risposta>Roberto Sosa</risposta>
+                                                    <risposta>Diego Simeone</risposta>
+                                                </domanda>
+                                                <domanda id = "307" punti = "50">Tra quali squadre si è¡³volta la finale dei Mondiali 2002?
+                                                    <risposta corretta="ok">Brasile-Germania</risposta>
+                                                    <risposta>Brasile-Corea del Sud</risposta>
+                                                    <risposta>Corea del Sud-Turchia</risposta>
+                                                    <risposta>Germania-Turchia</risposta>
+                                                </domanda>
+                                                <domanda id = "308" punti = "80">Quale squadra è¡¡rrivata terza ai Mondiali del 2002?
+                                                    <risposta corretta="ok">Turchia</risposta>
+                                                    <risposta>Corea del Sud</risposta>
+                                                    <risposta>Germania</risposta>
+                                                    <risposta>Argentina</risposta>
+                                                </domanda>
+                                                <domanda id = "309" punti = "22">Da quale squadra l'Italia venne eliminata nei Mondiali 2002 durante gli ottavi di finale?
+                                                    <risposta corretta="ok">Corea del Sud</risposta>
+                                                    <risposta>Senegal</risposta>
+                                                    <risposta>Belgio</risposta>
+                                                    <risposta>Messico</risposta>
+                                                </domanda>
+                                                <domanda id = "310" punti = "58">Chi è stato il miglior marcatore italiano nei Mondiali del 2006?
+                                                    <risposta corretta="ok">Christian Vieri</risposta>
+                                                    <risposta>Alessandro Del Piero</risposta>
+                                                    <risposta>Francesco Totti</risposta>
+                                                    <risposta>Filippo Inzaghi</risposta>
+                                                </domanda>
+                                                <domanda id = "311" punti = "68">Chi è stato il miglior marcatore dei Mondiali 2002?
+                                                    <risposta corretta="ok">Ronaldo</risposta>
+                                                    <risposta>Rivaldo</risposta>
+                                                    <risposta>Miroslav Klose</risposta>
+                                                    <risposta>Raul</risposta>
+                                                </domanda>
+                                                <domanda id = "312" punti = "30">Chi è stato nominato 'miglior portiere e miglior giocatore del torneo' dei Mondiali 2002?
+                                                    <risposta corretta="ok">Oliver Kahn</risposta>
+                                                    <risposta>Marcos</risposta>
+                                                    <risposta>Lee Won-Jae</risposta>
+                                                    <risposta>Rustu</risposta>
+                                                </domanda>
+                                                <domanda id = "313" punti = "46">Con la magia di quale squadra Gianfranco Zola ha concluso la sua carriera?
+                                                    <risposta corretta="ok">Cagliari</risposta>
+                                                    <risposta>Bologna</risposta>
+                                                    <risposta>Genoa</risposta>
+                                                    <risposta>Napoli</risposta>
+                                                </domanda>
+                                                <domanda id = "314" punti = "45">Di che nazionalità è la squadra Sion?
+                                                    <risposta corretta="ok">Svizzera</risposta>
+                                                    <risposta>Austriaca</risposta>
+                                                    <risposta>Tedesca</risposta>
+                                                    <risposta>Polacca</risposta>
+                                                </domanda>
+                                                <domanda id = "315" punti = "30">Di che nazionalità è la squadra Basilea?
+                                                    <risposta corretta="ok">Svizzera</risposta>
+                                                    <risposta>Austriaca</risposta>
+                                                    <risposta>Tedesca</risposta>
+                                                    <risposta>Polacca</risposta>
+                                                </domanda>
+                                                <domanda id = "316" punti = "45">Di che nazionalità è la squadra Feyenoord?
+                                                    <risposta corretta="ok">Olandese</risposta>
+                                                    <risposta>Belga</risposta>
+                                                    <risposta>Turca</risposta>
+                                                    <risposta>Greca</risposta>
+                                                </domanda>
+                                                <domanda id = "317" punti = "50">Di che nazionalità è la squadra Anderlecht?
+                                                    <risposta corretta="ok">Belga</risposta>
+                                                    <risposta>Olandese</risposta>
+                                                    <risposta>Turca</risposta>
+                                                    <risposta>Greca</risposta>
+                                                </domanda>
+                                                <domanda id = "318" punti = "40">Di che nazionalità è la squadra Lech Poznan?
+                                                    <risposta corretta="ok">Polacca</risposta>
+                                                    <risposta>Ucraina</risposta>
+                                                    <risposta>Lettone</risposta>
+                                                    <risposta>Estone</risposta>
+                                                </domanda>
+                                                <domanda id = "319" punti = "45">Di che nazionalità è la squadra di calcio Slovan Bratislava?
+                                                    <risposta corretta="ok">Slovacca</risposta>
+                                                    <risposta>Romena</risposta>
+                                                    <risposta>Ungherese</risposta>
+                                                    <risposta>Moldava</risposta>
+                                                </domanda>
+                                                <domanda id = "320" punti = "60">Di che nazionalità è la squadra Indipendiente Santa Fe?
+                                                    <risposta corretta="ok">Cilena</risposta>
+                                                    <risposta>Messicana</risposta>
+                                                    <risposta>Argentina</risposta>
+                                                    <risposta>Boliviana</risposta>
+                                                </domanda>
+                                                <domanda id = "321" punti = "30">Di che nazionalità è la squadra Velez?
+                                                    <risposta corretta="ok">Argentina</risposta>
+                                                    <risposta>Brasiliana</risposta>
+                                                    <risposta>Cilena</risposta>
+                                                    <risposta>Messicana</risposta>
+                                                </domanda>
+                                                <domanda id = "322" punti = "30">Di che nazionalità è la squadra Fluminense?
+                                                    <risposta corretta="ok">Brasiliana</risposta>
+                                                    <risposta>Cilena</risposta>
+                                                    <risposta>Argentina</risposta>
+                                                    <risposta>Boliviana</risposta>
+                                                </domanda>
+                                                <domanda id = "323" punti = "25">Chi era l'allenatore della Roma nell'anno del terzo Scudetto?
+                                                    <risposta corretta="ok">Fabio Capello</risposta>
+                                                    <risposta>Zdenek Zeman</risposta>
+                                                    <risposta>Carlo Mazzone</risposta>
+                                                    <risposta>Luciano Spalletti</risposta>
+                                                </domanda>
+                                                <domanda id = "333" punti = "88">Qual'è stato l'allenatore che per piñ ´¥mpo ha allenato al Roma?
+                                                    <risposta corretta="ok">Nils Liedholm</risposta>
+                                                    <risposta>Fabio Capello</risposta>
+                                                    <risposta>Luciano Spalletti</risposta>
+                                                    <risposta>Helenio Herrera</risposta>
+                                                </domanda>
+                                                <domanda id = "334" punti = "85">In quale di queste squadre non ha mai giocato Djibril Cissè
+												<risposta corretta="ok">New Castle</risposta>
+                                                <risposta>Olympique Marsiglia</risposta>
+                                                <risposta>Auxerre</risposta>
+                                                <risposta>Sunderland</risposta>
+                                            </domanda>
+                                            <domanda id = "335" punti = "85">Con la maglia di quale squadra Giuseppe Signori ha concluso la sua carriera?
+                                                <risposta corretta="ok">Sopron</risposta>
+                                                <risposta>Sampdoria</risposta>
+                                                <risposta>Bologna</risposta>
+                                                <risposta>Iraklis</risposta>
+                                            </domanda>
+                                            <domanda id = "336" punti = "79">Di che nazionalità è il giocatore Gunnar Nordhal?
+                                                <risposta corretta="ok">Svedese</risposta>
+                                                <risposta>Norvegese</risposta>
+                                                <risposta>Finlandese</risposta>
+                                                <risposta>Danese</risposta>
+                                            </domanda>
+                                            <domanda id = "335" punti = "43">Quale squadra di calcio ha vinto il Campionato di Serie A nella stagione 2006-2007?
+                                                <risposta corretta="ok">Inter</risposta>
+                                                <risposta>Milan</risposta>
+                                                <risposta>Juventus</risposta>
+                                                <risposta>Roma</risposta>
+                                            </domanda>
+                                            <domanda id = "336" punti = "35"> Quale squadra di calcio ha vinto il Campionato di Serie A nella stagione 2007-2008?
+                                                <risposta corretta="ok">Inter</risposta>
+                                                <risposta>Roma</risposta>
+                                                <risposta>Lazio</risposta>
+                                                <risposta>Juventus</risposta>
+                                            </domanda>
+                                            <domanda id = "337" punti = "29">Quale squadra di calcio ha vinto il Campionato di Serie A nella stagione 2008-2009?
+                                                <risposta corretta="ok">Inter</risposta>
+                                                <risposta>Roma</risposta>
+                                                <risposta>Napoli</risposta>
+                                                <risposta>Milan</risposta>
+                                            </domanda>
+                                            <domanda id = "338" punti = "20">Quale squadra di calcio ha vinto il Campionato di Serie A nella stagione 2009-2010?
+                                                <risposta corretta="ok">Inter</risposta>
+                                                <risposta>Roma</risposta>
+                                                <risposta>Napoli</risposta>
+                                                <risposta>Milan</risposta>
+                                            </domanda>
+                                            <domanda id = "339" punti = "78">Qual'è il giocatore piñ §©ovane ad aver mai vinto un Pallone d' Oro?
+                                                <risposta corretta="ok">Ronaldo</risposta>
+                                                <risposta>Micheal Owen</risposta>
+                                                <risposta>Lione Messi</risposta>
+                                                <risposta>George Best</risposta>
+                                            </domanda>
+                                            <domanda id = "340" punti = "100">Qual'è il giocatore piñ ¡®ziano ad aver mai vinto il Pallone d' Oro?
+                                                <risposta corretta="ok">Stanley Metthews</risposta>
+                                                <risposta>Lev Jasin</risposta>
+                                                <risposta>Alfredo Di Stefano</risposta>
+                                                <risposta>Fabio Cannavaro</risposta>
+                                            </domanda>
+                                            <domanda id = "341" punti = "95">Quale tra queste squadre italiane non ha mai disputato una finale di Champions League?
+                                                <risposta corretta="ok">Napoli</risposta>
+                                                <risposta>Roma</risposta>
+                                                <risposta>Sampdoria</risposta>
+                                                <risposta>Fiorentina</risposta>
+                                            </domanda>
+                                            <domanda id = "342" punti = "77">Dove si giocherà¡¬a finale di Champions League 2012-2013?
+                                                <risposta corretta="ok">Wembley Stadium</risposta>
+                                                <risposta>Santiago Bernabeu</risposta>
+                                                <risposta>Amsterdam Arena</risposta>
+                                                <risposta>Stade de France</risposta>
+                                            </domanda>
+                                            <domanda id = "343" punti = "87">Dove si giocherà¡¬a finale di Europa League 2012-2013?
+                                                <risposta corretta="ok">Amsterdam Arena</risposta>
+                                                <risposta>Juventus Stadium</risposta>
+                                                <risposta>Parco dei Principi</risposta>
+                                                <risposta>Emiretes Stadium</risposta>
+                                            </domanda>
+                                            <domanda id = "344" punti = "70">Di che nazionalità è la squadra Bruges?
+                                                <risposta corretta="ok">Belga</risposta>
+                                                <risposta>Olandese</risposta>
+                                                <risposta>Francese</risposta>
+                                                <risposta>Lussemburghese</risposta>
+                                            </domanda>
+                                            <domanda id = "345" punti = "40">Di quale squadra è¡£asa lo stadio Vicente Calderon?
+                                                <risposta corretta="ok">Atletico Madrid</risposta>
+                                                <risposta>Villareal</risposta>
+                                                <risposta>Malaga</risposta>
+                                                <risposta>Valencia</risposta>
+                                            </domanda>
+                                            <domanda id = "346" punti = "28">Chi fu nominato miglior portiere ai Mondiali del 2006?
+                                                <risposta corretta="ok">Gianluigi Buffon</risposta>
+                                                <risposta>Fabien Barthez</risposta>
+                                                <risposta>Oliver Kahn</risposta>
+                                                <risposta>Iker Casillas</risposta>
+                                            </domanda>
+                                            <domanda id = "347" punti = "59">Chi è stato nominato miglior giocatore ai Mondiali del 2006?
+                                                <risposta corretta="ok">Zinê¥©ne Zidane</risposta>
+                                                <risposta>Fernando Torres</risposta>
+                                                <risposta>Luca Toni</risposta>
+                                                <risposta>Ronaldo</risposta>
+                                            </domanda>
+                                            <domanda id = "348" punti = "12">Chi è stato il capocannoniere degli Europei 2012?
+                                                <risposta corretta="ok">Fernando Torres</risposta>
+                                                <risposta>Mario Gomez</risposta>
+                                                <risposta>Cristiano Ronaldo</risposta>
+                                                <risposta>Mario Balotelli</risposta>
+                                            </domanda>
+                                            <domanda id = "349" punti = "20">Nello stadio di quale città¡³i è¡³volta la finale degli Europei 2012?
+                                                <risposta corretta="ok">Kiev</risposta>
+                                                <risposta>Varsavia</risposta>
+                                                <risposta>Poznan</risposta>
+                                                <risposta>Charkiv</risposta>
+                                            </domanda>
+                                            <domanda id = "350" punti = "17">Chi è stato nominato miglio giocatore degli Europei 2012?
+                                                <risposta corretta="ok">Andres Iniesta</risposta>
+                                                <risposta>Gianluigi Buffon</risposta>
+                                                <risposta>Andrea Pirlo</risposta>
+                                                <risposta>Cristiano Ronaldo</risposta>
+                                            </domanda>
+                                            <domanda id = "351" punti = "100">Chi è stato il capocannoniere della Serie A 2000-2001?
+                                                <risposta corretta="ok">Hernan Crespo</risposta>
+                                                <risposta>Enrico Chiesa</risposta>
+                                                <risposta>Gabriel Batistuta</risposta>
+                                                <risposta>Andriy Shevchenko</risposta>
+                                            </domanda>
+                                            <domanda id = "352" punti = "96">Chi è stato il capocannoniere della Serie A 2002-2003?
+                                                <risposta corretta="ok">Christian Vieri</risposta>
+                                                <risposta>Adrian Mutu</risposta>
+                                                <risposta>Filippo Inzaghi</risposta>
+                                                <risposta>Alessandro Del Piero</risposta>
+                                            </domanda>
+                                            <domanda id = "353" punti = "93">Chi è stato il capocannoniere della Serie A 2003-2004?
+                                                <risposta corretta="ok">Andriy Shevchenko</risposta>
+                                                <risposta>Alberto Gilardino</risposta>
+                                                <risposta>Francesco Totti</risposta>
+                                                <risposta>Ernesto Chevantó®</risposta>
+                                                </domanda>
+                                                <domanda id = "354" punti = "90">Chi è stato il capocannoniere della Serie A 2004-2005?
+                                                    <risposta corretta="ok">Cristiano Lucarelli</risposta>
+                                                    <risposta>Alberto Gilardino</risposta>
+                                                    <risposta>Vincenzo Montella</risposta>
+                                                    <risposta>Luca Toni</risposta>
+                                                </domanda>
+                                                <domanda id = "355" punti = "88">Chi è stato il capocannoniere della Serie A 2005-2006?
+                                                    <risposta corretta="ok">Luca Toni</risposta>
+                                                    <risposta>David Trezeguet</risposta>
+                                                    <risposta>David Suazo</risposta>
+                                                    <risposta>Cristiano Lucarelli</risposta>
+                                                </domanda>
+                                                <domanda id = "356" punti = "86">Chi è stato il capocannoniere della Serie A 2006-2007?
+                                                    <risposta corretta="ok">Francesco Totti</risposta>
+                                                    <risposta>Cristiano Lucarelli</risposta>
+                                                    <risposta>Luca Toni</risposta>
+                                                    <risposta>Rolando Bianchi</risposta>
+                                                </domanda>
+                                                <domanda id = "357" punti = "84">Chi è stato il capocannoniere della Serie A 2007-2008?
+                                                    <risposta corretta="ok">Alessandro Del Piero</risposta>
+                                                    <risposta>Francesco Totti</risposta>
+                                                    <risposta>David Trezeguet</risposta>
+                                                    <risposta>Marco Borriello</risposta>
+                                                </domanda>
+                                                <domanda id = "358" punti = "80">Chi è stato il capocannoniere della Serie A 2008-2009?
+                                                    <risposta corretta="ok">Zlatan Ibrahimovic</risposta>
+                                                    <risposta>Marco Di Vaio</risposta>
+                                                    <risposta>Kakà</risposta>
+                                                        <risposta>Diego Milito</risposta>
+                                                    </domanda>
+                                                    <domanda id = "359" punti = "70">Chi è stato il capocannoniere della Serie A 2009-2010?
+                                                        <risposta corretta="ok">Antonio Di Natale</risposta>
+                                                        <risposta>Diego Milito</risposta>
+                                                        <risposta>Fabrizio Miccoli</risposta>
+                                                        <risposta>Giampaolo Pazzini</risposta>
+                                                    </domanda>
+                                                    <domanda id = "360" punti = "68">Di che nazionalità è la squadra di calcio Metalist?
+                                                        <risposta corretta="ok">Ucraina</risposta>
+                                                        <risposta>Moldava</risposta>
+                                                        <risposta>Polacca</risposta>
+                                                        <risposta>Estone</risposta>
+                                                    </domanda>
+                                                    <domanda id = "361" punti = "50">Quale animale è¡²affigurato nello stemma dela Valencia?
+                                                        <risposta corretta="ok">Pipistrello</risposta>
+                                                        <risposta>Lupo</risposta>
+                                                        <risposta>Aquina</risposta>
+                                                        <risposta>Toro</risposta>
+                                                    </domanda>
+                                                    <domanda id = "362" punti = "28">Con quale squadra ha esordito tra i professionisti Zlatan Ibrahimovic?
+                                                        <risposta corretta="ok">Malmo FF</risposta>
+                                                        <risposta>Ajax</risposta>
+                                                        <risposta>Twente</risposta>
+                                                        <risposta>Heerenveen</risposta>
+                                                        <risposta>Elfsborg</risposta>
+                                                    </domanda>
+                                                    <domanda id = "363" punti = "95">Di che nazionalità è la squadra Helsingborg?
+                                                        <risposta corretta="ok">Svedese</risposta>
+                                                        <risposta>Finlandese</risposta>
+                                                        <risposta>Norvegese</risposta>
+                                                        <risposta>Danese</risposta>
+                                                    </domanda>
+                                                    <domanda id = "364" punti = "75">Con la maglia di quale squadra Alessandro Matri ha esordito tra i professionisti?
+                                                        <risposta corretta="ok">Milan</risposta>
+                                                        <risposta>Cagliari</risposta>
+                                                        <risposta>Prato</risposta>
+                                                        <risposta>Rimini</risposta>
+                                                    </domanda>
+                                                    <domanda id = "365" punti = "96">Con quale squadra Fabio Quagliarella ha esordito tra i professionisti?
+                                                        <risposta corretta="ok">Torino</risposta>
+                                                        <risposta>Sampdoria</risposta>
+                                                        <risposta>Ascoli</risposta>
+                                                        <risposta>Fiorentina</risposta>
+                                                    </domanda>
+                                                    <domanda id = "366" punti = "89">Con quale squadra Gianpaolo Pazzini ha esordito tra i professionisti?
+                                                        <risposta corretta="ok">Atalanta</risposta>
+                                                        <risposta>Fiorentina</risposta>
+                                                        <risposta>Brescia</risposta>
+                                                        <risposta>Varese</risposta>
+                                                    </domanda>
+                                                    <domanda id = "367" punti = "51">Con la maglia di quale squadra Andrea Pirlo ha esordito tra i professionisti?
+                                                        <risposta corretta="ok">Brescia</risposta>
+                                                        <risposta>Inter</risposta>
+                                                        <risposta>Reggina</risposta>
+                                                        <risposta>Torino</risposta>
+                                                    </domanda>
+                                                    <domanda id = "368" punti = "83">Con quale squadra Juninho Pernambucano ha realizzato 100 gol in 344 partite?
+                                                        <risposta corretta="ok">Olympique Lione</risposta>
+                                                        <risposta>Olympique Marsiglia</risposta>
+                                                        <risposta>Vasco da Gama</risposta>
+                                                        <risposta>Monaco</risposta>
+                                                    </domanda>
+                                                    <domanda id = "369" punti = "92">Con la maglia di quale squadra Giorgio Chiellini ha debuttato in Serie A?
+                                                        <risposta corretta="ok">Livorno</risposta>
+                                                        <risposta>Pisa</risposta>
+                                                        <risposta>Padova</risposta>
+                                                        <risposta>Reggina</risposta>
+                                                    </domanda>
+                                                    <domanda id = "370" punti = "35">Quale squadra ha vinto il primo campionato di Serie A?
+                                                        <risposta corretta="ok">Genoa</risposta>
+                                                        <risposta>Pro Vercelli</risposta>
+                                                        <risposta>Milan</risposta>
+                                                        <risposta>Juventus</risposta>
+                                                    </domanda>
+                                                    <domanda id = "371" punti = "93">Con quale squadra Juan Sebastian Veron ha esordito in Serie A?
+                                                        <risposta corretta="ok">Sampdoria</risposta>
+                                                        <risposta>Lazio</risposta>
+                                                        <risposta>Parma</risposta>
+                                                        <risposta>Lecce</risposta>
+                                                    </domanda>
+                                                    <domanda id = "372" punti = "98">Di che nazionalità è la squadra Bate Borisov?
+                                                        <risposta corretta="ok">Biellorussa</risposta>
+                                                        <risposta>Ucraina</risposta>
+                                                        <risposta>Ungherese</risposta>
+                                                        <risposta>Lettone</risposta>
+                                                    </domanda>
+                                                    <domanda id = "373" punti = "79">Di che nazionalità è la squadra di calcio Genk?
+                                                        <risposta corretta="ok">Belga</risposta>
+                                                        <risposta>Olandese</risposta>
+                                                        <risposta>Svizzera</risposta>
+                                                        <risposta>Lussemburghese</risposta>
+                                                    </domanda>
+                                                    <domanda id = "374" punti = "44">Di quale squadra è¡£asa lo stadio Stamford Bridge?
+                                                        <risposta corretta="ok">Chelsea</risposta>
+                                                        <risposta>Liverpool</risposta>
+                                                        <risposta>Manchester City</risposta>
+                                                        <risposta>Tottenham</risposta>
+                                                    </domanda>
+                                                    <domanda id = "375" punti = "100">Di che nazionalità è la squadra Salzburg?
+                                                        <risposta corretta="ok">Austriaca</risposta>
+                                                        <risposta>Tedesca</risposta>
+                                                        <risposta>Svizzera</risposta>
+                                                        <risposta>Slovena</risposta>
+                                                    </domanda>
+                                                    <domanda id = "378" punti = "39">Di che nazionalità è il giocatore Daniel Van Buyten?
+                                                        <risposta corretta="ok">Belga</risposta>
+                                                        <risposta>Olandese</risposta>
+                                                        <risposta>Lussemburghese</risposta>
+                                                        <risposta>Tedesco</risposta>
+                                                    </domanda>
+                                                    <domanda id = "379" punti = "70">Di che nazionalità è la squadra Besiktas?
+                                                        <risposta corretta="ok">Turca</risposta>
+                                                        <risposta>Greca</risposta>
+                                                        <risposta>Albanese</risposta>
+                                                        <risposta>Macedone</risposta>
+                                                    </domanda>
+                                                    <domanda id = "380" punti = "100">Chi ha vinto il pallone d'oro nel 2001?
+                                                        <risposta corretta="ok">Luis Figo</risposta>
+                                                        <risposta>Zinê¥©ne Zidane</risposta>
+                                                        <risposta>Andriy Shevchenko</risposta>
+                                                        <risposta>Maldini</risposta>
+                                                    </domanda>
+                                                    <domanda id = "381" punti = "98">Chi ha vinto il pallone d' oro nel 2002?
+                                                        <risposta corretta="ok">Michael Owen</risposta>
+                                                        <risposta>Raul</risposta>
+                                                        <risposta>Oliver Kahn</risposta>
+                                                        <risposta>Deco</risposta>
+                                                    </domanda>
+                                                    <domanda id = "382" punti = "96">Chi ha vinto il pallone d' oro nel 2003?
+                                                        <risposta corretta="ok">Ronaldo</risposta>
+                                                        <risposta>Oliver Kahn</risposta>
+                                                        <risposta>Roberto Carlos</risposta>
+                                                        <risposta>Thierry Henry</risposta>
+                                                    </domanda>
+                                                    <domanda id = "383" punti = "94">Chi ha vinto il pallone d' oro nel 2004?
+                                                        <risposta corretta="ok">Pavel Nedved</risposta>
+                                                        <risposta>Thierry Henry</risposta>
+                                                        <risposta>Paolo Maldini</risposta>
+                                                        <risposta>Michael Owen</risposta>
+                                                    </domanda>
+                                                    <domanda id = "384" punti = "93">Chi ha vinto il pallone d' oro nel 2005?
+                                                        <risposta corretta="ok">Andriy Shevchenko</risposta>
+                                                        <risposta>Luis Figo</risposta>
+                                                        <risposta>Ronaldinho</risposta>
+                                                        <risposta>Deco</risposta>
+                                                    </domanda>
+                                                    <domanda id = "385" punti = "92">Chi ha vinto il pallone d' oro nel 2006?
+                                                        <risposta corretta="ok">Ronaldinho</risposta>
+                                                        <risposta>Steven Gerrard</risposta>
+                                                        <risposta>Frank Lampard</risposta>
+                                                        <risposta>Pavel Nedved</risposta>
+                                                    </domanda>
+                                                    <domanda id = "386" punti = "74">Chi ha vinto il pallone d' oro nel 2007?
+                                                        <risposta corretta="ok">Fabio Cannavaro</risposta>
+                                                        <risposta>Ronaldinho</risposta>
+                                                        <risposta>Gianluigi Buffon</risposta>
+                                                        <risposta>Thierry Henry</risposta>
+                                                    </domanda>
+                                                    <domanda id = "387" punti = "85">Chi ha vinto il pallone d' oro nel 2008?
+                                                        <risposta corretta="ok">Kakà</risposta>
+                                                            <risposta>Cristiano Ronaldo</risposta>
+                                                            <risposta>Cannavaro</risposta>
+                                                            <risposta>Lionel Messi</risposta>
+                                                        </domanda>
+                                                        <domanda id = "388" punti = "65">Chi ha vinto il pallone d' oro nel 2009?
+                                                            <risposta corretta="ok">Cristiano Ronaldo</risposta>
+                                                            <risposta>Kakà</risposta>
+                                                                <risposta>Fernando Torres</risposta>
+                                                                <risposta>Lionel Messi</risposta>
+                                                            </domanda>
+                                                            <domanda id = "389" punti = "19">Chi ha vinto il pallone d' oro nel 2010?
+                                                                <risposta corretta="ok">Lionel Messi</risposta>
+                                                                <risposta>Cristiano Ronaldo</risposta>
+                                                                <risposta>Kakà</risposta>
+                                                                    <risposta>Xavì</risposta>
+                                                                    </domanda>
+                                                                    <domanda id = "390" punti = "10">Chi ha vinto il pallone d' oro nel 2011?
+                                                                        <risposta corretta="ok">Lionel Messi</risposta>
+                                                                        <risposta>Cristiano Ronaldo</risposta>
+                                                                        <risposta>Xavi</risposta>
+                                                                        <risposta>Iniesta</risposta>
+                                                                    </domanda>
+                                                                    <domanda id = "391" punti = "2">Chi ha vinto il pallone d' oro nel 2012?
+                                                                        <risposta corretta="ok">Lionel Messi</risposta>
+                                                                        <risposta>Xavi</risposta>
+                                                                        <risposta>Iniesta</risposta>
+                                                                        <risposta>Cristiano Ronaldo</risposta>
+                                                                    </domanda>
+                                                                    <domanda id = "392" punti = "80">In quale di questi stadi italiani non si è¡­ai diputata una finale di Champions League?
+                                                                        <risposta corretta="ok">San Paolo</risposta>
+                                                                        <risposta>Stadio Olimpico</risposta>
+                                                                        <risposta>San Siro</risposta>
+                                                                        <risposta>San Nicola</risposta>
+                                                                    </domanda>
+                                                                    <domanda id = "393" punti = "81">Di che nazionalità è l'ormai ex calciatore Hugo Sanchez?
+                                                                        <risposta corretta="ok">Messicana</risposta>
+                                                                        <risposta>Cilena</risposta>
+                                                                        <risposta>Colombiana</risposta>
+                                                                        <risposta>Uruguaiano</risposta>
+                                                                    </domanda>
+                                                                    <domanda id = "394" punti = "90">Qual'è la squadra francese ad aver vinto il maggior numero di volte la Ligue 1?
+                                                                        <risposta corretta="ok">Saint-Ê´ienne</risposta>
+                                                                        <risposta>PSG</risposta>
+                                                                        <risposta>Olimpique Lione</risposta>
+                                                                        <risposta>Olimpique Marsiglia</risposta>
+                                                                    </domanda>
+                                                                    <domanda id = "395" punti = "40">Con la maglia di quale squadra Giampaolo Pazzini e Riccardo Montolivo hanno esordito in Serie A?
+                                                                        <risposta corretta="ok">Atalanta</risposta>
+                                                                        <risposta>Fiorentina</risposta>
+                                                                        <risposta>Sampdoria</risposta>
+                                                                        <risposta>Ternana</risposta>
+                                                                    </domanda>
+                                                                    <domanda id = "396" punti = "25">Di che nazionalità¡¥ra il calciatore Garrincha?
+                                                                        <risposta corretta="ok">Brasiliana</risposta>
+                                                                        <risposta>Cilena</risposta>
+                                                                        <risposta>Portoghese</risposta>
+                                                                        <risposta>Spagnola</risposta>
+                                                                    </domanda>
+                                                                    <domanda id = "397" punti = "35">Di quale squadra è¡£asa l'Etihad Stadium?
+                                                                        <risposta corretta="ok">Manchester City</risposta>
+                                                                        <risposta>Swansea</risposta>
+                                                                        <risposta>Southampton</risposta>
+                                                                        <risposta>Fulham</risposta>
+                                                                    </domanda>
+                                                                    <domanda id = "398" punti = "79">Di quale squadra è¡£asa lo stadio St James' Park?
+                                                                        <risposta corretta="ok">Newcastle</risposta>
+                                                                        <risposta>Stoke</risposta>
+                                                                        <risposta>Aston Villa</risposta>
+                                                                        <risposta>Everton</risposta>
+                                                                    </domanda>
+                                                                    <domanda id = "399" punti = "95">Di quale squadra è¡£asa lo stadio White Hart Lane?
+                                                                        <risposta corretta="ok">Tottenham</risposta>
+                                                                        <risposta>Fulham</risposta>
+                                                                        <risposta>Swansea</risposta>
+                                                                        <risposta>Liverpool</risposta>
+                                                                    </domanda>
+                                                                    <domanda id = "400" punti = "50">Di quale squadra è¡£asa lo stadio Anfield?
+                                                                        <risposta corretta="ok">Liverpool</risposta>
+                                                                        <risposta>Tottenham</risposta>
+                                                                        <risposta>Aston Villa</risposta>
+                                                                        <risposta>Chelsea</risposta>
+                                                                    </domanda>
+                                                                    <domanda id = "401" punti = "8">Quale di questi calciatori è¡³oprannominato il Romario del Salento?
+                                                                        <risposta corretta="ok">Fabrizio Miccoli</risposta>
+                                                                        <risposta>Nicola Amoruso</risposta>
+                                                                        <risposta>Nicola Ventola</risposta>
+                                                                        <risposta>Vincenzo Iaquinta</risposta>
+                                                                    </domanda>
+                                                                    <domanda id = "402" punti = "30">Di che nazionalità è il giocatore Alexandre Song?
+                                                                        <risposta corretta="ok">Camerunense</risposta>
+                                                                        <risposta>Ghanese</risposta>
+                                                                        <risposta>Ivoriano</risposta>
+                                                                        <risposta>Nigeriano</risposta>
+                                                                    </domanda>
+                                                                    <domanda id = "403" punti = "2">Con quanti milioni di euro il Barcellona nell'estate del 2012 ha acquistato Alexandre Song?
+                                                                        <risposta corretta="ok">19</risposta>
+                                                                        <risposta>22</risposta>
+                                                                        <risposta>14</risposta>
+                                                                        <risposta>17</risposta>
+                                                                    </domanda>
+                                                                </gruppo_domande>
