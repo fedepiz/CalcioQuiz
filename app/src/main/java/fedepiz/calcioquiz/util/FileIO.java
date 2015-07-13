@@ -1,11 +1,9 @@
 package fedepiz.calcioquiz.util;
 
 import android.content.res.*;
-import android.os.Environment;
 
 import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStream;
 import java.io.InputStreamReader;
 
 import fedepiz.calcioquiz.R;
