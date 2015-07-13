@@ -10,11 +10,13 @@ public class Question {
     private int id;
     private String text;
     private List<Answer> answerList;
+    private Integer score;
 
-    public Question(int id, String text, List<Answer> answerList) {
+    public Question(int id, String text, List<Answer> answerList,Integer score) {
         this.id = id;
         this.text = text;
         this.answerList = answerList;
+        this.score = score;
     }
 
     public int getId() {
@@ -33,5 +35,9 @@ public class Question {
         List<Answer> resultList = new ArrayList<Answer>();
         for(Answer answer : getAnswerList()) if (answer.isCorrect()) resultList.add(answer);
         return resultList;
+    }
+
+    public Integer getScore() {
+        return score;
     }
 }
