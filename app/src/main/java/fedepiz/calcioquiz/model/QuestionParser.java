@@ -20,11 +20,6 @@ import javax.xml.parsers.ParserConfigurationException;
  * Created by Federico on 13/7/15.
  */
 public class QuestionParser  {
-    private Context context;
-
-    public QuestionParser(Context context) {
-        this.context = context;
-    }
 
     public List<Question> questionsFromXML(InputStream inputSource) throws QuestionParserException {
         Document document = this.parseDocument(inputSource);
