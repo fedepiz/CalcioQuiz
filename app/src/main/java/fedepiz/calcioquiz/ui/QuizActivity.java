@@ -1,9 +1,11 @@
-package fedepiz.calcioquiz;
+package fedepiz.calcioquiz.ui;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+
+import fedepiz.calcioquiz.R;
 
 
 public class QuizActivity extends ActionBarActivity {

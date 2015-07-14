@@ -17,12 +17,12 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".QuizSetupActivity"
+            android:name=".ui.QuizSetupActivity"
             android:label="@string/title_activity_quiz_setup"
             android:noHistory="true">
         </activity>
         <activity
-            android:name=".QuizActivity"
+            android:name=".ui.QuizActivity"
             android:label="@string/title_activity_quiz" >
         </activity>
     </application>

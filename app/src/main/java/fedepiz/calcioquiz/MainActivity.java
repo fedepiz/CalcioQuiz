@@ -1,22 +1,31 @@
 package fedepiz.calcioquiz;
 
+import android.content.Intent;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
 
-import fedepiz.calcioquiz.main.*;
+import fedepiz.calcioquiz.model.*;
+import fedepiz.calcioquiz.ui.QuizSetupActivity;
 
 
 public class MainActivity extends ActionBarActivity {
+
+    private DataLoader dataLoader;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
-        Main main = new Main(this.getResources());
-        main.run();
+        try {
+            intitialSetup();
+        }catch(Exception ex) {
+            Log.i("CalcioQuiz", ex.getMessage());
+            throw new RuntimeException(ex.getMessage());
+        }
     }
 
     @Override
@@ -41,7 +50,22 @@ public class MainActivity extends ActionBarActivity {
         return super.onOptionsItemSelected(item);
     }
 
-    private void launchSinglePlayer(){
+    //UI BACKEND CODE
 
+    private void intitialSetup() throws Exception {
+        this.dataLoader = new DataLoader(this.getResources());
+        GameData.setQuestions(dataLoader.loadQuestions());
+    }
+
+    private void launchSinglePlayer(){
+        Intent intent = new Intent(this,QuizSetupActivity.class);
+        startActivity(intent);
+    }
+
+    //UI INTERACTION
+
+    public void btnSinglePlayerOnClick(View view) {
+        launchSinglePlayer();
     }
 }
+
