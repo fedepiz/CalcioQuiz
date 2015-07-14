@@ -12,6 +12,7 @@ import android.widget.TextView;
 import org.w3c.dom.Text;
 
 import fedepiz.calcioquiz.R;
+import fedepiz.calcioquiz.quiz.QuizConfiguration;
 
 
 public class QuizSetupActivity extends ActionBarActivity {
@@ -59,20 +60,16 @@ public class QuizSetupActivity extends ActionBarActivity {
         Integer maxPoints = parseIntFromText(txtMaxPoints.getText().toString(),1000);
         Integer numQuestions = parseIntFromText(txtNumQuestions.getText().toString(),10);
 
-        Intent intent = new Intent(this,QuizActivity.class);
-        intent.putExtra("minPoints",minPoints);
-        intent.putExtra("maxPoints",maxPoints);
-        intent.putExtra("numQuestions",numQuestions);
+        QuizConfiguration configuration = new QuizConfiguration(numQuestions,minPoints,maxPoints);
 
-        Log.i("CalcioQuiz",minPoints.toString());
-        Log.i("CalcioQuiz",maxPoints.toString());
-        Log.i("CalcioQuiz",numQuestions.toString());
+        Intent intent = new Intent(this,QuizActivity.class);
+        intent.putExtra("quizConfiguration",configuration);
         startActivity(intent);
     }
 
     //PROCESSING
     private int parseIntFromText(String str,int defaultValue) {
-        if(str == "") {
+        if(str.equals("")) {
             return defaultValue;
         } else {
             return Integer.parseInt(str);
