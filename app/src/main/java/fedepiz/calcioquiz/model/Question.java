@@ -40,4 +40,14 @@ public class Question {
     public Integer getScore() {
         return score;
     }
+
+    public String toString() {
+        String head = id + " " + text + " " + score;
+        StringBuilder sb = new StringBuilder("");
+        for(Answer ans:getAnswerList()) {
+            sb.append(ans.toString());
+            sb.append("\n");
+        }
+        return head + "\n" + sb.toString();
+    }
 }

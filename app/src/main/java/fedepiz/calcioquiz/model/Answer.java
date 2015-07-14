@@ -19,4 +19,8 @@ public class Answer {
     public boolean isCorrect() {
         return correct;
     }
+
+    public String toString() {
+        return (correct ? "!" : "") + answer;
+    }
 }

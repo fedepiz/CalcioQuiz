@@ -23,7 +23,12 @@ public class QuestionParser  {
 
     public List<Question> questionsFromXML(InputStream inputSource) throws QuestionParserException {
         Document document = this.parseDocument(inputSource);
-        return questionsFromNode(document);
+        List<Node> nodes = getNodesWithName(document.getChildNodes(),"gruppo_domande");
+        if(nodes.size() == 0) {
+            return new ArrayList<>();
+        } else {
+            return questionsFromNode(nodes.get(0));
+        }
     }
 
     private Document parseDocument(InputStream inputSource) throws QuestionParserException {
@@ -78,7 +83,7 @@ public class QuestionParser  {
     }
 
     private String questionText(Node questionNode) {
-        return questionNode.getNodeValue();
+        return questionNode.getFirstChild().getNodeValue();
     }
 
     private Integer questionID(Node questionNode) throws QuestionParserException {
@@ -115,11 +120,14 @@ public class QuestionParser  {
     }
 
     private String answerText(Node node) {
-        return node.getNodeValue();
+        return node.getFirstChild().getNodeValue();
     }
 
     private boolean answerIsCorrect(Node node) {
-        String s =  node.getAttributes().getNamedItem("corretta").getNodeValue();
-        return s != null && s.equals("ok");
+        Node n = node.getAttributes().getNamedItem("corretta");
+        if(n == null)
+            return false;
+        else
+            return n.getNodeValue().equals("ok");
     }
 }
