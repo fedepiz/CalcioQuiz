@@ -8,8 +8,6 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
-import org.w3c.dom.Text;
-
 import java.util.ArrayList;
 import java.util.List;
 
@@ -25,6 +23,8 @@ public class QuizActivity extends ActionBarActivity {
     private Question currentQuestion;
 
     private TextView txtQuestion;
+    private TextView txtQuestionCount;
+    private TextView txtScore;
     private List<Button> btnAnswers;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -33,7 +33,8 @@ public class QuizActivity extends ActionBarActivity {
         List<Question> questionList = (List<Question>)getIntent().getSerializableExtra("questions");
         this.quiz = new Quiz(questionList);
         this.txtQuestion = (TextView)findViewById(R.id.txtQuestion);
-
+        this.txtScore = (TextView)findViewById(R.id.txtScore);
+        this.txtQuestionCount = (TextView)findViewById(R.id.txtQuestionCount);
         this.btnAnswers = new ArrayList<>();
         btnAnswers.add((Button)findViewById(R.id.btnAnsw1));
         btnAnswers.add((Button)findViewById(R.id.btnAnsw2));
@@ -41,7 +42,7 @@ public class QuizActivity extends ActionBarActivity {
         btnAnswers.add((Button) findViewById(R.id.btnAnsw4));
 
 
-        refreshQuiz();
+        refresh();
     }
 
     @Override
@@ -68,10 +69,10 @@ public class QuizActivity extends ActionBarActivity {
 
     //UI BackEnd
 
-    private void refreshQuiz() {
+    private void refresh() {
         try {
             this.currentQuestion = quiz.getCurrentQuestion();
-        }catch(Exception ex) {
+        }catch(QuizException ex) {
             //Do nothing
         }
 
@@ -80,11 +81,21 @@ public class QuizActivity extends ActionBarActivity {
             Answer a = currentQuestion.getAnswerList().get(i);
             btnAnswers.get(i).setText(a.getAnswerText());
         }
+        String questionText = "Domanda " + quiz.getCurrentQuestionIndex() + "/" + quiz.getNumberOfQuestions();
+        txtQuestionCount.setText(questionText);
+        String scoreText = "Punteggio" + quiz.getScore() + "/" + quiz.getMaxPossibleScore();
+        txtScore.setText(scoreText);
     }
 
     private void handleAnswer(int n) {
         int index = n - 1;
+        Answer selectedAnswer = this.currentQuestion.getAnswerList().get(index);
+        try {
+            quiz.answerCurrentQuestion(selectedAnswer);
+        }catch(QuizException ex) {
 
+        }
+        this.refresh();
     }
 
     //UI FRONTEND

@@ -9,7 +9,6 @@ import android.view.View;
 import android.widget.TextView;
 
 import java.util.ArrayList;
-import java.util.List;
 
 import fedepiz.calcioquiz.R;
 import fedepiz.calcioquiz.model.GameData;
