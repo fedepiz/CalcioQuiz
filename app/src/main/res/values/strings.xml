@@ -6,4 +6,5 @@
     <string name="title_activity_quiz_setup">QuizSetupActivity</string>
     <string name="title_activity_quiz">QuizActivity</string>
     <string name="btnSinglePlayerText">Giocatore Singolo</string>
+    <string name="btnStartGame">Inizia</string>
 </resources>

@@ -6,4 +6,61 @@
     android:paddingBottom="@dimen/activity_vertical_margin"
     tools:context="fedepiz.calcioquiz.ui.QuizSetupActivity">
 
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/btnStartGame"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:ems="10"
+            android:id="@+id/txtMinPoints"
+            android:editable="true"
+            android:numeric="integer"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="52dp" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:ems="10"
+            android:id="@+id/txtMaxPoints"
+            android:editable="true"
+            android:numeric="integer"
+            android:layout_alignBaseline="@+id/txtNumQuestions"
+            android:layout_alignBottom="@+id/txtNumQuestions"
+            android:layout_alignLeft="@+id/txtNumQuestions"
+            android:layout_alignStart="@+id/txtNumQuestions" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:ems="10"
+            android:id="@+id/txtNumQuestions"
+            android:editable="true"
+            android:numeric="integer"
+            android:text="10"
+            android:layout_below="@+id/txtMinPoints"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="50dp" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/btnStartGame"
+            android:id="@+id/btnStartGame"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="98dp"
+            android:onClick="btnStartGameOnClick" />
+    </LinearLayout>
 </RelativeLayout>
