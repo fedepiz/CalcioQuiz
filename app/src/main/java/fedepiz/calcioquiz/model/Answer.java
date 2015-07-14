@@ -25,4 +25,13 @@ public class Answer implements  Serializable{
     public String toString() {
         return (correct ? "!" : "") + answer;
     }
+    @Override
+    public  boolean equals(Object other){
+        if(other instanceof Answer) {
+            Answer otherAnswer = (Answer)other;
+            return otherAnswer.getAnswer().equals(this.getAnswer()) &&
+                   otherAnswer.isCorrect() == this.isCorrect();
+        }
+        return false;
+    }
 }

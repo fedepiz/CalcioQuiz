@@ -3,6 +3,7 @@ package fedepiz.calcioquiz.model;
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Objects;
 
 /**
  * Created by Federico on 13/7/15.
@@ -51,5 +52,17 @@ public class Question implements Serializable {
             sb.append("\n");
         }
         return head + "\n" + sb.toString();
+    }
+
+    @Override
+    public boolean equals(Object other) {
+        if(other instanceof  Question) {
+            Question otherQuestion = (Question)other;
+            return  otherQuestion.getId() == this.getId() &&
+                    otherQuestion.getScore() == this.getScore() &&
+                    otherQuestion.getText().equals(this.getText()) &&
+                    otherQuestion.getAnswerList().equals(this.getAnswerList());
+        }
+        return false;
     }
 }
