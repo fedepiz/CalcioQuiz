@@ -75,4 +75,13 @@ public class Quiz {
         if(answer.isCorrect())
             this.score += currentQuestion.getScore();
     }
+
+    public int getCorrectAnswersCount() {
+        int count = 0;
+        for(Pair<Question,Answer> entry:answerRecord) {
+            if (entry.getSecond().isCorrect())
+                    count++;
+        }
+        return count;
+    }
 }

@@ -19,12 +19,16 @@
         <activity
             android:name=".ui.QuizSetupActivity"
             android:label="@string/title_activity_quiz_setup"
-            android:noHistory="true">
+            android:noHistory="true" >
         </activity>
         <activity
             android:name=".ui.QuizActivity"
             android:label="@string/title_activity_quiz"
-            android:noHistory="true">
+            android:noHistory="true" >
+        </activity>
+        <activity
+            android:name=".ui.ResultActivity"
+            android:label="@string/title_activity_result" >
         </activity>
     </application>
 

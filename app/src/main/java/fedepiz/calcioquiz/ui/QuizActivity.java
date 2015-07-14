@@ -1,5 +1,6 @@
 package fedepiz.calcioquiz.ui;
 
+import android.content.Intent;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
@@ -10,6 +11,8 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import javax.xml.transform.Result;
 
 import fedepiz.calcioquiz.R;
 import fedepiz.calcioquiz.model.Answer;
@@ -95,9 +98,22 @@ public class QuizActivity extends ActionBarActivity {
         }catch(QuizException ex) {
 
         }
-        this.refresh();
+        if(quiz.isEndOfQuiz()) {
+            invokeResults();
+        } else  {
+            this.refresh();
+        }
     }
 
+
+    private void invokeResults() {
+        Intent intent = new Intent(this, ResultActivity.class);
+        intent.putExtra("score",this.quiz.getScore());
+        intent.putExtra("max_score",this.quiz.getMaxPossibleScore());
+        intent.putExtra("num_questions",this.quiz.getNumberOfQuestions());
+        intent.putExtra("correct_answers",this.quiz.getCorrectAnswersCount());
+        startActivity(intent);
+    }
     //UI FRONTEND
 
     public void btnAnswerOnClick1(View view){

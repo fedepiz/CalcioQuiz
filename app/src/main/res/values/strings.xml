@@ -7,4 +7,6 @@
     <string name="title_activity_quiz">QuizActivity</string>
     <string name="btnSinglePlayerText">Giocatore Singolo</string>
     <string name="btnStartGame">Inizia</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="btnResultBackText">Indietro</string>
 </resources>
