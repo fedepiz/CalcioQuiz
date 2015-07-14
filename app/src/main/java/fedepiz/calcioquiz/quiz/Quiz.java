@@ -2,6 +2,7 @@ package fedepiz.calcioquiz.quiz;
 
 
 import java.io.Serializable;
+import java.util.ArrayList;
 import java.util.List;
 
 import fedepiz.calcioquiz.model.*;
@@ -9,7 +10,7 @@ import fedepiz.calcioquiz.model.*;
 /**
  * Created by Federico on 14/7/15.
  */
-public class Quiz implements Serializable{
+public class Quiz {
 
     private List<Question> questionList;
     private int currentQuestionIndex;
@@ -32,6 +33,7 @@ public class Quiz implements Serializable{
 
     public Quiz(List<Question> questionLis) {
         this.questionList = questionLis;
+        this.answerRecord = new ArrayList<>();
         this.currentQuestionIndex = 0;
         this.score = 0;
         this.possibleScore = 0;
@@ -39,7 +41,7 @@ public class Quiz implements Serializable{
 
 
     public   boolean isEndOfQuiz() {
-        return this.currentQuestionIndex < questionList.size();
+        return this.currentQuestionIndex >= questionList.size();
     }
 
     public  int getCurrentQuestionIndex() {

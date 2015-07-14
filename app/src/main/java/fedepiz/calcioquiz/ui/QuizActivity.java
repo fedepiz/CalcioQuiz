@@ -30,8 +30,8 @@ public class QuizActivity extends ActionBarActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_quiz);
-        this.quiz = (Quiz)getIntent().getSerializableExtra("quiz");
-
+        List<Question> questionList = (List<Question>)getIntent().getSerializableExtra("questions");
+        this.quiz = new Quiz(questionList);
         this.txtQuestion = (TextView)findViewById(R.id.txtQuestion);
 
         this.btnAnswers = new ArrayList<>();

@@ -23,14 +23,16 @@ public class BoundedScoreRandomQuizBuilder implements  QuizBuilder {
         this.maxPoints = maxPoints;
     }
 
-
     public  Quiz buildQuiz() {
-        List<Question> suitableQuestions = questionsInBounds(questionList,minPoints,maxPoints);
-        suitableQuestions = selectRandomly(suitableQuestions,questionCount);
-        Collections.shuffle(suitableQuestions);
-        return new Quiz(suitableQuestions);
+        return  new Quiz(buildQuestionList());
     }
-    
+
+    public List<Question> buildQuestionList() {
+        List<Question> suitableQuestions = questionsInBounds(questionList,minPoints,maxPoints);
+        Collections.shuffle(suitableQuestions);
+        return suitableQuestions.subList(0,questionCount);
+    }
+
     private List<Question> questionsInBounds(List<Question> original,int low,int high) {
         List<Question> questionList = new ArrayList<>();
         for(Question question:original) {
@@ -40,13 +42,4 @@ public class BoundedScoreRandomQuizBuilder implements  QuizBuilder {
         return questionList;
     }
 
-    private List<Question> selectRandomly(List<Question> ls,int count) {
-        Random rand = new Random();
-        List<Question> newList = new ArrayList<>(ls);
-        while(ls.size() > count) {
-            int toDropIndex = rand.nextInt(ls.size());
-            newList.remove(toDropIndex);
-        }
-        return newList;
-    }
 }

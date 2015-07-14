@@ -8,8 +8,12 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.TextView;
 
+import java.util.ArrayList;
+import java.util.List;
+
 import fedepiz.calcioquiz.R;
 import fedepiz.calcioquiz.model.GameData;
+import fedepiz.calcioquiz.model.Question;
 import fedepiz.calcioquiz.quiz.*;
 
 
@@ -61,9 +65,9 @@ public class QuizSetupActivity extends ActionBarActivity {
         BoundedScoreRandomQuizBuilder builder = new BoundedScoreRandomQuizBuilder(
                 GameData.getQuestions(),numQuestions,minPoints,maxPoints);
 
-        Quiz quiz = builder.buildQuiz();
+        ArrayList<Question> questionList = new ArrayList<>(builder.buildQuestionList());
         Intent intent = new Intent(this,QuizActivity.class);
-        intent.putExtra("quiz",quiz);
+        intent.putExtra("questions",questionList);
         startActivity(intent);
     }
 
