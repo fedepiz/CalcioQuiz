@@ -14,45 +14,56 @@ public class Quiz {
 
     private List<Question> questionList;
     private int currentQuestionIndex;
+    private int score;
+    private int possibleScore;
 
     private List<Pair<Question,Answer>> answerRecord;
 
-    public Quiz(List<Question> questionList, int questionCount, int minPoints,int maxPoints) {
-        List<Question> suitableQuestions = questionsInBounds(questionList,minPoints,maxPoints);
-        suitableQuestions = selectRandomly(suitableQuestions,questionCount);
-        Collections.shuffle(suitableQuestions);
-        this.questionList = suitableQuestions;
+    public List<Pair<Question,Answer>> getAnswerRecord() {
+        return this.answerRecord;
+    }
+
+    public int getScore() {
+        return this.score;
+    }
+
+    public int getMaxPossibleScore() {
+        return this.possibleScore;
+    }
+
+    public Quiz(List<Question> questionLis) {
+        this.questionList = questionLis;
         this.currentQuestionIndex = 0;
+        this.score = 0;
+        this.possibleScore = 0;
     }
 
-    private List<Question> questionsInBounds(List<Question> original,int low,int high) {
-        List<Question> questionList = new ArrayList<>();
-        for(Question question:original) {
-            if (question.getScore() >= low && question.getScore() <= high)
-                questionList.add(question);
-        }
-        return questionList;
-    }
 
-    private List<Question> selectRandomly(List<Question> ls,int count) {
-        Random rand = new Random();
-        List<Question> newList = new ArrayList<>(ls);
-        while(ls.size() > count) {
-            int toDropIndex = rand.nextInt(ls.size());
-            newList.remove(toDropIndex);
-        }
-        return newList;
-    }
-
-    private  boolean isEndOfQuiz() {
+    public   boolean isEndOfQuiz() {
         return this.currentQuestionIndex < questionList.size();
     }
 
-    public Question getCurrentQuestion() {
+    public Question getCurrentQuestion() throws QuizException{
         if (!isEndOfQuiz()) {
             return questionList.get(currentQuestionIndex);
         } else {
-            return null;
+            throw new QuizException("Quiz is over, but current question requested!");
         }
+    }
+
+    public  void answerCurrentQuestion(Answer answer) throws  QuizException{
+        if(isEndOfQuiz()) {
+            throw new  QuizException("Unable to answer question in Quiz: quiz is over!");
+        }
+        Question currentQuestion = getCurrentQuestion();
+        if(!currentQuestion.getAnswerList().contains(answer))
+            throw  new QuizException("Unable to answer question in Quiz: the proposed answer is not" +
+                                     "one of the eligible ones");
+
+        this.answerRecord.add(new Pair<>(currentQuestion,answer));
+        this.currentQuestionIndex++;
+        this.possibleScore += this.getCurrentQuestion().getScore();
+        if(answer.isCorrect())
+            this.score += currentQuestion.getScore();
     }
 }
