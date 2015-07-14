@@ -24,9 +24,7 @@ public class Main {
     public  void run() {
         try {
             Log.i("CalcioQuiz", "Main launched");
-            InputStream ins = resources.openRawResource(R.raw.domande);
-            QuestionParser parser = new QuestionParser();
-            List<Question> questionList = parser.questionsFromXML(ins);
+            List<Question> questionList = loadQuestions();
             if (questionList.size() > 0) {
             } else {
                 Log.i("CalcioQuiz","No question parsed");
@@ -35,5 +33,14 @@ public class Main {
             Log.i("CalcioQuiz", "ERROR: " + ex.getMessage());
         }
         Log.i("CalcioQuiz","Application terminated successfully");
+    }
+
+
+    public List<Question> loadQuestions() throws QuestionParserException {
+        Log.i("CalcioQuiz", "Main launched");
+        InputStream ins = resources.openRawResource(R.raw.domande);
+        QuestionParser parser = new QuestionParser();
+        List<Question> questionList = parser.questionsFromXML(ins);
+        return questionList;
     }
 }
