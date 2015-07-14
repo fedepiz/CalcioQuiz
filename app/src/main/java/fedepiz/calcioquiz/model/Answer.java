@@ -14,7 +14,7 @@ public class Answer implements  Serializable{
         this.correct = correct;
     }
 
-    public String getAnswer() {
+    public String getAnswerText() {
         return answer;
     }
 
@@ -29,7 +29,7 @@ public class Answer implements  Serializable{
     public  boolean equals(Object other){
         if(other instanceof Answer) {
             Answer otherAnswer = (Answer)other;
-            return otherAnswer.getAnswer().equals(this.getAnswer()) &&
+            return otherAnswer.getAnswerText().equals(this.getAnswerText()) &&
                    otherAnswer.isCorrect() == this.isCorrect();
         }
         return false;

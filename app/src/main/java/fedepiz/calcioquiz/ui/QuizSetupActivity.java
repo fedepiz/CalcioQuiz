@@ -3,16 +3,14 @@ package fedepiz.calcioquiz.ui;
 import android.content.Intent;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.TextView;
 
-import org.w3c.dom.Text;
-
 import fedepiz.calcioquiz.R;
-import fedepiz.calcioquiz.quiz.QuizConfiguration;
+import fedepiz.calcioquiz.model.GameData;
+import fedepiz.calcioquiz.quiz.*;
 
 
 public class QuizSetupActivity extends ActionBarActivity {
@@ -60,10 +58,12 @@ public class QuizSetupActivity extends ActionBarActivity {
         Integer maxPoints = parseIntFromText(txtMaxPoints.getText().toString(),1000);
         Integer numQuestions = parseIntFromText(txtNumQuestions.getText().toString(),10);
 
-        QuizConfiguration configuration = new QuizConfiguration(numQuestions,minPoints,maxPoints);
+        BoundedScoreRandomQuizBuilder builder = new BoundedScoreRandomQuizBuilder(
+                GameData.getQuestions(),numQuestions,minPoints,maxPoints);
 
+        Quiz quiz = builder.buildQuiz();
         Intent intent = new Intent(this,QuizActivity.class);
-        intent.putExtra("quizConfiguration",configuration);
+        intent.putExtra("quiz",quiz);
         startActivity(intent);
     }
 

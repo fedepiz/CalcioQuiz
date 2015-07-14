@@ -30,7 +30,7 @@ public class BoundedScoreRandomQuizBuilder implements  QuizBuilder {
         Collections.shuffle(suitableQuestions);
         return new Quiz(suitableQuestions);
     }
-
+    
     private List<Question> questionsInBounds(List<Question> original,int low,int high) {
         List<Question> questionList = new ArrayList<>();
         for(Question question:original) {

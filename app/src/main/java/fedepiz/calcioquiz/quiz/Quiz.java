@@ -1,6 +1,7 @@
 package fedepiz.calcioquiz.quiz;
 
 
+import java.io.Serializable;
 import java.util.List;
 
 import fedepiz.calcioquiz.model.*;
@@ -8,7 +9,7 @@ import fedepiz.calcioquiz.model.*;
 /**
  * Created by Federico on 14/7/15.
  */
-public class Quiz {
+public class Quiz implements Serializable{
 
     private List<Question> questionList;
     private int currentQuestionIndex;
@@ -39,6 +40,14 @@ public class Quiz {
 
     public   boolean isEndOfQuiz() {
         return this.currentQuestionIndex < questionList.size();
+    }
+
+    public  int getCurrentQuestionIndex() {
+        return this.currentQuestionIndex;
+    }
+
+    public int getNumberOfQuestions() {
+        return this.questionList.size();
     }
 
     public Question getCurrentQuestion() throws QuizException{
