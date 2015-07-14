@@ -10,13 +10,13 @@ import fedepiz.calcioquiz.model.Question;
 /**
  * Created by Federico on 14/7/15.
  */
-public class BoundedScoreQuizBuilder implements  QuizBuilder {
+public class BoundedScoreRandomQuizBuilder implements  QuizBuilder {
     private List<Question> questionList;
     int questionCount;
     int minPoints;
     int maxPoints;
 
-    public BoundedScoreQuizBuilder(List<Question> questionList,  int questionCount, int minPoints, int maxPoints) {
+    public BoundedScoreRandomQuizBuilder(List<Question> questionList,  int questionCount, int minPoints, int maxPoints) {
         this.questionList = questionList;
         this.questionCount = questionCount;
         this.minPoints = minPoints;
