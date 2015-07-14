@@ -1,9 +1,11 @@
 package fedepiz.calcioquiz.model;
 
+import java.io.Serializable;
+
 /**
  * Created by Federico on 13/7/15.
  */
-public class Answer {
+public class Answer implements  Serializable{
     private String answer;
     private boolean correct;
 

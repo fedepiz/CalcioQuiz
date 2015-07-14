@@ -1,12 +1,14 @@
 package fedepiz.calcioquiz.model;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 
 /**
  * Created by Federico on 13/7/15.
  */
-public class Question {
+@SuppressWarnings("ALL")
+public class Question implements Serializable {
     private int id;
     private String text;
     private List<Answer> answerList;
