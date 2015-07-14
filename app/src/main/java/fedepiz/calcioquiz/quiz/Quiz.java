@@ -1,9 +1,7 @@
 package fedepiz.calcioquiz.quiz;
 
-import java.util.ArrayList;
-import java.util.Collections;
+
 import java.util.List;
-import java.util.Random;
 
 import fedepiz.calcioquiz.model.*;
 

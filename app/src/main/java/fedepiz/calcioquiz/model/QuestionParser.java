@@ -1,7 +1,5 @@
 package fedepiz.calcioquiz.model;
 
-import android.content.Context;
-
 import org.w3c.dom.Document;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
