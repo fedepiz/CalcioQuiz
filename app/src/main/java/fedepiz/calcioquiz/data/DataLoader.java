@@ -1,4 +1,4 @@
-package fedepiz.calcioquiz.model;
+package fedepiz.calcioquiz.data;
 
 import android.content.res.Resources;
 import android.util.Log;
@@ -7,6 +7,9 @@ import java.io.InputStream;
 import java.util.List;
 
 import fedepiz.calcioquiz.R;
+import fedepiz.calcioquiz.model.Question;
+import fedepiz.calcioquiz.model.QuestionParser;
+import fedepiz.calcioquiz.model.QuestionParserException;
 
 /**
  * Created by Federico on 14/7/15.

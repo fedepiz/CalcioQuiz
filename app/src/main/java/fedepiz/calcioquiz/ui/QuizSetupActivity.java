@@ -11,7 +11,7 @@ import android.widget.TextView;
 import java.util.ArrayList;
 
 import fedepiz.calcioquiz.R;
-import fedepiz.calcioquiz.model.GameData;
+import fedepiz.calcioquiz.data.GameData;
 import fedepiz.calcioquiz.model.Question;
 import fedepiz.calcioquiz.quiz.*;
 

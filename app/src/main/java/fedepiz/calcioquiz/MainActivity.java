@@ -8,27 +8,21 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 
-import java.io.ByteArrayOutputStream;
-import java.io.ObjectOutputStream;
-
-import fedepiz.calcioquiz.model.*;
-import fedepiz.calcioquiz.quiz.Quiz;
+import fedepiz.calcioquiz.data.DataLoader;
+import fedepiz.calcioquiz.data.GameData;
 import fedepiz.calcioquiz.ui.QuizSetupActivity;
 
 
 public class MainActivity extends ActionBarActivity {
 
-    private DataLoader dataLoader;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        try {
-            intitialSetup();
-        }catch(Exception ex) {
-            Log.i("CalcioQuiz", ex.getMessage());
-            throw new RuntimeException(ex.getMessage());
+        boolean okInit = initialSetup();
+        if(!okInit) {
+            throw new RuntimeException("Errore critico: chiusura applicazione");
         }
     }
 
@@ -56,9 +50,14 @@ public class MainActivity extends ActionBarActivity {
 
     //UI BACKEND CODE
 
-    private void intitialSetup() throws Exception {
-        this.dataLoader = new DataLoader(this.getResources());
-        GameData.setQuestions(dataLoader.loadQuestions());
+    private boolean initialSetup()  {
+        try {
+            GameData.loadGameData(this.getResources());
+            return true;
+        }catch (Exception ex) {
+            Log.i("CalcioQuiz","An exception occurred while loading data");
+            return false;
+        }
     }
 
     private void launchSinglePlayer(){
