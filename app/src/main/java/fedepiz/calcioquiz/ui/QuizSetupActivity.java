@@ -61,7 +61,7 @@ public class QuizSetupActivity extends ActionBarActivity {
         Integer maxPoints = parseIntFromText(txtMaxPoints.getText().toString(),1000);
         Integer numQuestions = parseIntFromText(txtNumQuestions.getText().toString(),10);
 
-        BoundedScoreRandomQuizBuilder builder = new BoundedScoreRandomQuizBuilder(
+        QuizBuilder builder = new QuizBuilder(
                 GameData.getQuestions(),numQuestions,minPoints,maxPoints);
 
         ArrayList<Question> questionList = new ArrayList<>(builder.buildQuestionList());
